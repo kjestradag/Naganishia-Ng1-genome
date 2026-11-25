@@ -1,0 +1,333 @@
+"""
+Author: Karel Estrada
+Affiliation: UUSMB
+Aim: A Snakemake workflow for compute mapping pipeline.
+Date: abr 2022
+usage: snakemake --cores 24 --rerun-incomplete -s /home/karel/bin/Snakefile_bwa
+Latest modification: Thu 31 Aug 2023 01:34:39 PM CST
+"""
+
+# utiles: %> snakemake -np --unlock -s Snakefile_annot # cuando se sale inesperadamente snakemake y luego se queja de que no puede hacer lock del directorio de trabajo
+# utiles: %> snakemake -p convert --cores 24 -s /home/karel/bin/Snakefile_bwa # para correr solo el alineamiento
+# utiles: %> snakemake -np --cores 24 --config REF="ggallus.fna" FQ1="A_22_130_RNA_S1_R1_001.fastq.gz" FQ2="A_22_130_RNA_S1_R1_001.fastq.gz" P="130_vs_ggallus" IDX="is" -s /home/karel/bin/Snakefile_bwa # para correr dandole los archivos en lugar de que esten hardcoding en el snakefile
+# genera DAG
+# snakemake -p --dag seqs_vs_ref.mapped.R1_fastq seqs_vs_ref.unmapped.R1_fastq seqs_vs_ref.mapped.coverage_resume --config FQ1="DEN_1_S26_R1_001_rand.fastq" FQ2="DEN_1_S26_R2_001_rand.fastq" -s /home/karel/bin/Snakefile_bwa | dot -Tsvg > dag.svg
+
+# necesita archivo de referencia y de fastq pareados
+# REF= "path/ref.fna"
+# FQ1= "path/fastq_r1.fastq[gz]"
+# FQ2= "path/fastq_r2.fastq[gz]"
+# P= "prefijo (ex: nombre de la muestra) utilizado para nombres finales"
+
+if "REF" in config.keys():
+    REF = config["REF"]
+else:
+    REF = "ref.fna"
+
+if "FQ1" in config.keys():
+    FQ1 = config["FQ1"]
+else:
+    FQ1 = "R1.fastq.gz"
+
+if "FQ2" in config.keys():
+    FQ2 = config["FQ2"]
+else:
+    FQ2 = "R2.fastq.gz"
+
+if "P" in config.keys():
+    P = config["P"]
+else:
+    P = "sample_vs_ref"
+
+if "IDX" in config.keys():
+    IDX = config["IDX"]
+else:
+    IDX = "bwtsw"
+
+MAP = ["mapped","unmapped"]
+
+
+rule all:
+    input:
+        expand("{prefix}.mapped.coverage_resume", prefix=P),
+        expand("{prefix}.raw.stats", prefix=P),
+        expand("{prefix}.host90.stats", prefix=P)
+
+rule bwaindex:
+    input:
+        ref = "{ref}"
+    params:
+        idx = lambda wildcards: IDX
+    output:
+        #temp("{ref}.bwt")
+        "{ref}.bwt"
+    threads:
+        2
+    message:
+        "BWA index.."
+    shell:
+        "bwa index -a {params.idx} {input.ref}"
+#       Genomas grandes
+#       "bwa index -a bwtsw {input[0]}"
+
+rule bwa:
+    input:
+        expand("{fq1}", fq1=FQ1),
+        expand("{fq2}", fq2=FQ2),
+        expand("{ref}.bwt", ref=REF)
+    output:
+        temp("{prefix}.raw.sam")
+    threads:
+        workflow.cores
+    message:
+        "BWA mem.."
+    shell:
+        '''
+        bwa mem -rf -t {threads} {REF} {input[0]} {input[1]} -o {output}
+#        rm -f {REF}.*
+        '''
+
+rule convert:
+    input:
+        rules.bwa.output
+    output:
+        temp("{prefix}.raw.bam")
+    threads:
+        workflow.cores
+    message:
+        "converting to bam.."
+    shell:
+        "samtools view -@ {threads} -Sb {input} > {output}"
+
+        # keep only reads properly paired
+            # -F 4: Excluye los reads que no están alineados (es decir, los reads que tienen el flag 0x4 en el BAM)
+            # -f 3: Incluye solo los reads que están alineados y tienen ambos pares de lectura (es decir, los reads que tienen el flag 0x1 y 0x2)
+        #"samtools view -@ {threads} -F 4 -f 3 -Sb {input} > {output}"
+
+rule stats:
+    input:
+        rules.convert.output
+    output:
+        "{prefix}.raw.stats"
+    threads:
+        1
+    message:
+        "alignment stats.."
+    shell:
+        "bamtools stats -in {input} > {output}"
+
+# raw.stats se calcula sobre el BAM crudo, ANTES de rule filter, asi que su
+# "Mapped reads" refleja el criterio permisivo de bwa mem (alineamiento local
+# desde ~30 pb) y sobreestima el hospedero por un orden de magnitud.
+# host90.stats lo calcula sobre el BAM ya filtrado a >=90% de la lectura
+# alineada, que es el hospedero real. Se conservan los dos para poder comparar.
+rule stats_host:
+    # nombre literal y no rules.mdup.output: rule mdup se define mas abajo en
+    # este archivo y aun no existe al parsear esta regla.
+    #
+    # No basta `bamtools stats` sobre el BAM filtrado: su denominador es ese
+    # mismo BAM, asi que siempre reporta "Mapped reads: N (100%)". El helper
+    # toma el total del metagenoma desde raw.stats y da la fraccion real.
+    input:
+        bam = "{prefix}.mapped.sortn_fixmate_sortc_rdup_bam",
+        raw = "{prefix}.raw.stats"
+    output:
+        "{prefix}.host90.stats"
+    threads:
+        1
+    message:
+        "host alignment stats (filtro >=90%).."
+    shell:
+        "host_stats_resume.sh {input.bam} {input.raw} {output}"
+
+#rule filter:
+#    input:
+#        rules.convert.output
+#    output:
+#        temp("{prefix}.{map}.bam")
+#    threads:
+#        2
+#    message:
+#        "mapped reads filter.."
+#    shell:
+#        '''
+#        if [ {wildcards.map} = "mapped" ]
+#        then
+#            ISMAPPED="true"
+#        else
+#            ISMAPPED="false"
+#        fi
+#        bamtools filter -isMapped $ISMAPPED -in {input} -out {output}
+#        '''
+
+# Separa hospedero / no-hospedero exigiendo que >=90% de la lectura alinee.
+#
+# Por que no basta -F 4 (comportamiento anterior, ver .bak):
+#   bwa mem hace alineamiento LOCAL y acepta desde ~30 pb coincidentes (-T 30),
+#   asi que en metagenoma vs genoma de hospedero reporta como "mapeada"
+#   cualquier lectura con un tramo corto pegado a una repeticion. Medido en
+#   Heces_128G vs Capra hircus: 21.8 M lecturas daban "mapeadas" (25.8%), pero
+#   el 98.2% de ellas tenia <40% de la lectura alineada, y la cobertura del
+#   genoma era 4.4% de amplitud a 0.169x -- incompatible con hospedero real
+#   (serian >60% y 1.13x). El hospedero genuino resulto ser ~0.4%.
+#   Con -F 4 se descartaba ~25% de senal microbiana legitima.
+#
+# (qlen-sclen)/qlen = fraccion de la lectura no soft-clipeada. Validado contra
+# sum(M,=,X)/len(SEQ): 350,284 vs 350,173 lecturas (0.03% de diferencia).
+# Las dos ramas son complementarias y suman los primarios totales.
+rule filter:
+    input:
+        rules.convert.output
+    output:
+        temp("{prefix}.{map}.bam")
+    threads:
+        2
+    message:
+        "mapped reads filter (>=90% de la lectura alineada).."
+    shell:
+        '''
+        if [ {wildcards.map} = "mapped" ]
+        then
+            # Hospedero: primario, mapeado y con <=10% de soft-clipping
+            samtools view -@ {threads} -F 0x904 \
+                -e '(qlen-sclen)/qlen >= 0.9' -b {input} > {output}
+        else
+            # No hospedero: sin mapear, o alineado de forma demasiado parcial
+            samtools view -@ {threads} -F 0x900 \
+                -e 'flag.unmap || sclen/qlen > 0.1' -b {input} > {output}
+        fi
+        '''
+
+rule sortn:
+    input:
+        rules.filter.output
+    output:
+        temp("{prefix}.{map}.sortn_bam")
+    threads:
+        workflow.cores
+    message:
+        "sorting byname mapped and unmapped reads.."
+    shell:
+        # si quiero sacar fastqs o fixmate para poder usar markdup ordeno por nombres
+        "samtools sort -t {threads} -n {input} -o {output}"
+
+rule fastq_unmapped:
+    input:
+        "{prefix}.unmapped.sortn_bam"
+    output:
+        "{prefix}.unmapped.R1_fastq",
+        "{prefix}.unmapped.R2_fastq",
+        "{prefix}.unmapped.singles_fastq"
+    threads:
+        workflow.cores/2
+    message:
+        "extracting fastqs for unmapped reads.."
+    shell:
+        "samtools fastq --threads {threads} {input[0]} -1 {output[0]} -2 {output[1]} -s {output[2]}"
+
+rule fixmate:
+    input:
+        "{prefix}.mapped.sortn_bam"
+    output:
+        temp("{prefix}.mapped.sortn_fixmate_bam")
+    threads:
+        workflow.cores/2
+    message:
+        "fixmate.."
+    shell:
+        "samtools fixmate --threads {threads} -m {input} {output}"
+
+rule sortc:
+    input:
+        rules.fixmate.output
+    output:
+        temp("{prefix}.mapped.sortn_fixmate_sortc_bam")
+    threads:
+        workflow.cores
+    message:
+        "sorting by coords mapped reads.."
+    shell:
+        # para ordenar por coordenadas (por ejemplo para tablet o duplicados)
+        "samtools sort -t {threads} {input} -o {output}"
+
+rule mdup:
+    input:
+        rules.sortc.output
+    output:
+        "{prefix}.mapped.sortn_fixmate_sortc_rdup_bam"
+    threads:
+        workflow.cores
+    message:
+        "removing|marking optical duplicates.."
+    shell:
+        # remueve duplicados
+        # "samtools markdup --threads {threads} -r -s {input} {output}"
+        # solo marca duplicados
+        "samtools markdup --threads {threads} -s {input} {output}"
+
+rule sortdn:
+    input:
+        rules.mdup.output
+    output:
+        temp("{prefix}.mapped.sortn_fixmate_sortc_rdup_sortn_bam")
+    threads:
+        workflow.cores
+    message:
+        "sort by names before get fastqs for mapped reads.."
+    shell:
+        # si quiero sacar fastqs ordeno por nombres
+        "samtools sort -t {threads} -n {input} -o {output}"
+
+rule fastq:
+    input:
+        rules.sortdn.output
+    output:
+        "{prefix}.mapped.R1_fastq",
+        "{prefix}.mapped.R2_fastq",
+        "{prefix}.mapped.singles_fastq"
+    threads:
+        workflow.cores/2
+    message:
+        "extracting fastqs for mapped reads.."
+    shell:
+        "samtools fastq --threads {threads} {input[0]} -1 {output[0]} -2 {output[1]} -s {output[2]}"
+
+
+rule coverage:
+    input:
+        rules.sortc.output,
+        rules.mdup.output
+    output:
+        temp("{prefix}.mapped.sortn_fixmate_sortc_rdup_coverage"),
+        temp("{prefix}.mapped.sortn_fixmate_sortc_rdup_coverage_mdup")
+    threads:
+        2
+    message:
+        "coverage for mapped reads.."
+    shell:
+        '''
+        # para ordenar por coordenas (por ejemplo para tablet o duplicados)
+        samtools coverage {input[0]} -o {output[0]}
+        samtools coverage {input[1]} -o {output[1]}
+        '''
+
+rule coverage_table:
+    input:
+        rules.stats.output,
+        rules.coverage.output,
+        rules.fastq_unmapped.output,
+        rules.fastq.output
+    output:
+        "{prefix}.mapped.coverage_resume"
+    threads:
+        1
+    message:
+        "coverage stats resume.."
+    shell:
+        '''
+        # para tener una tabla resumen de las coberturas
+        coverage_relabund.l {input[0]} {input[2]} {input[1]} > {output}
+        rename.ul  '.R1_fastq' '.R1.fastq' *
+        rename.ul  '.R2_fastq' '.R2.fastq' *
+        '''
+

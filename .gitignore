@@ -1,0 +1,31 @@
+# large or intermediate files are not tracked
+*.bam
+*.bai
+*.sam
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.pod5
+*.sqn
+*.delta
+.~lock*
+__pycache__/
+node_modules/
+
+# --- analyses and files not reported in the article (kept locally, not shared) ---
+analyses/01_assembly/original_notes_es.txt
+analyses/02_gene_prediction_annotation/genome.asm
+analyses/02_gene_prediction_annotation/table2asn_validation_summary.txt
+analyses/04_busco/Ng1_genome_augustus_basidiomycota_odb10_short_summary.txt
+analyses/04_busco/Ng1_proteins_basidiomycota_odb10_short_summary.txt
+analyses/04_busco/reference_genomes_augustus/
+analyses/04_busco/busco_union.py
+analyses/04_busco/busco_union.tsv
+analyses/04_busco/annotated_proteomes/*
+!analyses/04_busco/annotated_proteomes/ng1_final_proteins_short_summary.txt
+analyses/06_mitochondrial_genome/annotation/prokka_compliant.log
+analyses/11_genome_statistics_table2/make_table2.js
+figures/tables/Table2_comparative.docx
+analyses/12_functional_annotation/eggnog_run.log
+analyses/12_functional_annotation/scripts/run_eggnog.sh

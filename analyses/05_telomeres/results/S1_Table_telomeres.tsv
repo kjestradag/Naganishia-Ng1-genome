@@ -1,0 +1,79 @@
+Scaffold	Scaffold length (bp)	Scaffold class	End	Telomere evidence	Assembled array: start from end (bp)	Assembled array: units	Assembled array: length (bp)	ONT depth at terminal 200 bp	ONT reads ending in telomere	…of which uniquely placed	ONT reads continuing past the end	Telomere tip, median (bp beyond end)	Terminal segment without ONT support (bp)	Annotated genes in that segment	Read-based verification
+Ng1_1	2248611	Telomere-to-telomere	5′	Assembly	1	35	240	32	30	28	6	-26			Confirmed
+Ng1_1	2248611	Telomere-to-telomere	3′	ONT reads only				53	25	17	18	139			Confirmed
+Ng1_2	1854401	Telomere-to-telomere	5′	ONT reads only				26	20	18	0	123			Confirmed
+Ng1_2	1854401	Telomere-to-telomere	3′	Assembly	110	4	28	12	20	18	2	-56			Confirmed
+Ng1_3	1287273	Telomere at one end	5′	Assembly	72	28	202	10	22	19	4	-138			Confirmed
+Ng1_3	1287273	Telomere at one end	3′	Absent				1	3	0	0	-672			
+Ng1_4	1254706	Telomere-to-telomere	5′	ONT reads only				12	19	13	0	-5			Confirmed
+Ng1_4	1254706	Telomere-to-telomere	3′	Assembly	20	22	181	25	21	16	2	1			Confirmed
+Ng1_5	1241383	Telomere-to-telomere	5′	ONT reads only				23	19	17	2	294			Confirmed
+Ng1_5	1241383	Telomere-to-telomere	3′	ONT reads only				25	17	15	2	310			Confirmed
+Ng1_6	1217367	Telomere at one end	5′	Absent				58	0	0	39				
+Ng1_6	1217367	Telomere at one end	3′	ONT reads only				25	22	17	2	165			Confirmed
+Ng1_7	1162826	Telomere-to-telomere	5′	ONT reads only				29	20	5	10	210			Confirmed
+Ng1_7	1162826	Telomere-to-telomere	3′	ONT reads only				2	21	18	8	33	3900	none	Confirmed
+Ng1_8	1161477	Telomere at one end	5′	Absent				30	19	12	10	1903			
+Ng1_8	1161477	Telomere at one end	3′	Assembly	31	24	160	30	22	22	3	-43			Confirmed
+Ng1_9	898877	Telomere at one end	5′	ONT reads only				36	29	24	5	226			Confirmed
+Ng1_9	898877	Telomere at one end	3′	Absent				16	3	1	9	-566			
+Ng1_10	820929	Telomere at one end	5′	Assembly	0	7	48	28	22	9	6	170			Confirmed
+Ng1_10	820929	Telomere at one end	3′	Absent				291	1	1	163	3314			
+Ng1_11	788383	Telomere-to-telomere	5′	Assembly	10	26	186	51	23	21	2	2			Confirmed
+Ng1_11	788383	Telomere-to-telomere	3′	ONT reads only	51	4	26	0	13	8	4	88	2300	NadelNg1_004980	Confirmed
+Ng1_12	684165	Telomere at one end	5′	ONT reads only				1	28	18	4	-24	2400	none	Confirmed
+Ng1_12	684165	Telomere at one end	3′	Absent				40	8	7	17	3484			
+Ng1_13	663186	No terminal telomere	5′	Absent				9	1	0	6	165			
+Ng1_13	663186	No terminal telomere	3′	Absent				2	0	0	0				
+Ng1_14	566541	Telomere at one end	5′	ONT reads only				35	33	29	2	343			Confirmed
+Ng1_14	566541	Telomere at one end	3′	Absent				2	2	1	0	233			
+Ng1_15	526049	Telomere-to-telomere	5′	ONT reads only				31	26	22	3	112			Confirmed
+Ng1_15	526049	Telomere-to-telomere	3′	Assembly	0	49	343	22	23	16	4	-33			Confirmed
+Ng1_16	480945	Telomere at one end	5′	ONT reads only				1	17	16	3	266	1000	NadelNg1_005828	Confirmed
+Ng1_16	480945	Telomere at one end	3′	Absent				1	12	0	1	211			
+Ng1_17	450499	Telomere-to-telomere	5′	Assembly	4	15	105	20	18	18	2	5			Confirmed
+Ng1_17	450499	Telomere-to-telomere	3′	ONT reads only				13	7	6	2	165			Confirmed
+Ng1_18	433839	Telomere-to-telomere	5′	ONT reads only				54	44	22	5	208			Confirmed
+Ng1_18	433839	Telomere-to-telomere	3′	ONT reads only				27	18	17	2	17			Confirmed
+Ng1_19	399503	Telomere at one end	5′	Absent				62	0	0	55				
+Ng1_19	399503	Telomere at one end	3′	ONT reads only				42	31	27	4	107			Confirmed
+Ng1_20	329226	Telomere at one end	5′	Absent				24	10	8	4	1855			
+Ng1_20	329226	Telomere at one end	3′	Assembly	2	30	209	21	28	24	2	-80			Confirmed
+Ng1_21	219349	Telomere at one end	5′	Not counted (conflicting)				1	20	10	27	58	1700	NadelNg1_006573	Conflicting
+Ng1_21	219349	Telomere at one end	3′	ONT reads only				37	26	22	2	144			Confirmed
+Ng1_22	192523	Telomere at one end	5′	ONT reads only				3	23	21	2	2	1400	none	Confirmed
+Ng1_22	192523	Telomere at one end	3′	Absent				133	0	0	102				
+Ng1_23	182226	Telomere at one end	5′	Absent				0	0	0	0				
+Ng1_23	182226	Telomere at one end	3′	Assembly	6	34	231	10	19	17	3	-108			Confirmed
+Ng1_24	170920	No terminal telomere	5′	Not counted (conflicting)	0	4	28	101	4	3	67	13088			Conflicting
+Ng1_24	170920	No terminal telomere	3′	Not counted (conflicting)	4	6	41	71	36	25	25	2335			Conflicting
+Ng1_25	114007	Telomere at one end	5′	ONT reads only				31	16	13	7	464			Confirmed
+Ng1_25	114007	Telomere at one end	3′	Absent				105	0	0	86				
+Ng1_26	75378	Telomere at one end	5′	Absent				38	0	0	38				
+Ng1_26	75378	Telomere at one end	3′	Assembly	60	6	42	34	23	21	6	54			Confirmed
+Ng1_28	47056	Telomere at one end	5′	Assembly	7	17	121	39	14	13	3	-53			Confirmed
+Ng1_28	47056	Telomere at one end	3′	Absent				1	0	0	0				
+Ng1_29	28746	Telomere at one end	5′	Assembly	2	14	93	37	19	16	3	-53			Confirmed
+Ng1_29	28746	Telomere at one end	3′	Absent				44	0	0	35				
+Ng1_30	25337	No terminal telomere	5′	Absent				2	0	0	2				
+Ng1_30	25337	No terminal telomere	3′	Absent				1	0	0	1				
+Ng1_31	23571	No terminal telomere	5′	Absent				3	0	0	3				
+Ng1_31	23571	No terminal telomere	3′	Absent				3	0	0	0				
+Ng1_32	16930	No terminal telomere	5′	Absent				0	0	0	0				
+Ng1_32	16930	No terminal telomere	3′	Absent				3	0	0	2				
+Ng1_33	16802	No terminal telomere	5′	Absent				68	0	0	53				
+Ng1_33	16802	No terminal telomere	3′	Absent				66	0	0	48				
+Ng1_34	12752	Telomere at one end	5′	Absent				52	0	0	55				
+Ng1_34	12752	Telomere at one end	3′	Assembly	0	4	26	28	23	22	1	226			Confirmed
+Ng1_35	8888	Telomere at one end	5′	Absent				5	0	0	0				
+Ng1_35	8888	Telomere at one end	3′	Assembly	0	4	26	1	0	0	0				Unverifiable (<5 informative reads)
+Ng1_36	8537	No terminal telomere	5′	Absent				0	0	0	0				
+Ng1_36	8537	No terminal telomere	3′	Absent				1	0	0	1				
+Ng1_37	7920	No terminal telomere	5′	Absent				5	0	0	4				
+Ng1_37	7920	No terminal telomere	3′	Absent				3	0	0	2				
+Ng1_38	7842	No terminal telomere	5′	Absent				1	0	0	1				
+Ng1_38	7842	No terminal telomere	3′	Absent				1	1	1	0	2346			
+Ng1_39	6178	No terminal telomere	5′	Absent				32	12	8	10	2980			
+Ng1_39	6178	No terminal telomere	3′	Absent				29	0	0	25				
+Ng1_40	4513	No terminal telomere	5′	Absent				2	0	0	2				
+Ng1_40	4513	No terminal telomere	3′	Absent				3	0	0	3				

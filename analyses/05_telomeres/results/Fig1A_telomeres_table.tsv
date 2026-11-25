@@ -1,0 +1,40 @@
+scaffold	length_bp	tel5_start_from_end	tel5_units	tel5_bp	tel3_start_from_end	tel3_units	tel3_bp	tel5_evidence	tel5_ont_reads	tel5_ont_mode	tel5_unsupported_terminal_bp	tel3_evidence	tel3_ont_reads	tel3_ont_mode	tel3_unsupported_terminal_bp	tel5_verification	tel3_verification	class
+Naganishia_adeliensis_Ng1_1	2248611	1	35	240				assembly				ONT_reads_only	26	extend		confirmed	confirmed	T2T
+Naganishia_adeliensis_Ng1_2	1854401				110	4	28	ONT_reads_only	19	extend		assembly				confirmed	confirmed	T2T
+Naganishia_adeliensis_Ng1_3	1287273	72	28	202				assembly								confirmed		one_end
+Naganishia_adeliensis_Ng1_4	1254706				20	22	181	ONT_reads_only	17	extend		assembly				confirmed	confirmed	T2T
+Naganishia_adeliensis_Ng1_5	1241383							ONT_reads_only	23	extend		ONT_reads_only	19	extend		confirmed	confirmed	T2T
+Naganishia_adeliensis_Ng1_6	1217367											ONT_reads_only	25	extend			confirmed	one_end
+Naganishia_adeliensis_Ng1_7	1162826							ONT_reads_only	21	extend		ONT_reads_only	16	trim	3900	confirmed	confirmed	T2T
+Naganishia_adeliensis_Ng1_8	1161477				31	24	160					assembly					confirmed	one_end
+Naganishia_adeliensis_Ng1_9	898877							ONT_reads_only	34	extend						confirmed		one_end
+Naganishia_adeliensis_Ng1_10	820929	0	7	48				assembly	22	extend						confirmed		one_end
+Naganishia_adeliensis_Ng1_11	788383	10	26	186	51	4	26	assembly	5	extend		ONT_reads_only	17	trim	2300	confirmed	confirmed	T2T
+Naganishia_adeliensis_Ng1_12	684165							ONT_reads_only	13	trim	2400					confirmed		one_end
+Naganishia_adeliensis_Ng1_13	663186																	none
+Naganishia_adeliensis_Ng1_14	566541							ONT_reads_only	32	extend						confirmed		one_end
+Naganishia_adeliensis_Ng1_15	526049				0	49	343	ONT_reads_only	26	extend		assembly				confirmed	confirmed	T2T
+Naganishia_adeliensis_Ng1_16	480945							ONT_reads_only	6	trim	1000					confirmed		one_end
+Naganishia_adeliensis_Ng1_17	450499	4	15	105				assembly				ONT_reads_only	9	extend		confirmed	confirmed	T2T
+Naganishia_adeliensis_Ng1_18	433839							ONT_reads_only	46	extend		ONT_reads_only				confirmed	confirmed	T2T
+Naganishia_adeliensis_Ng1_19	399503											ONT_reads_only	32	extend			confirmed	one_end
+Naganishia_adeliensis_Ng1_20	329226				2	30	209					assembly					confirmed	one_end
+Naganishia_adeliensis_Ng1_21	219349							not_counted_conflicting	7	trim	1700	ONT_reads_only	30	extend		conflicting	confirmed	one_end
+Naganishia_adeliensis_Ng1_22	192523							ONT_reads_only	16	trim	1400					confirmed		one_end
+Naganishia_adeliensis_Ng1_23	182226				6	34	231					assembly					confirmed	one_end
+Naganishia_adeliensis_Ng1_24	170920	0	4	28	4	6	41	not_counted_conflicting				not_counted_conflicting				conflicting	conflicting	none
+Naganishia_adeliensis_Ng1_25	114007							ONT_reads_only								confirmed		one_end
+Naganishia_adeliensis_Ng1_26	75378				60	6	42					assembly	10	extend			confirmed	one_end
+Naganishia_adeliensis_Ng1_28	47056	7	17	121				assembly								confirmed		one_end
+Naganishia_adeliensis_Ng1_29	28746	2	14	93				assembly								confirmed		one_end
+Naganishia_adeliensis_Ng1_30	25337																	none
+Naganishia_adeliensis_Ng1_31	23571																	none
+Naganishia_adeliensis_Ng1_32	16930																	none
+Naganishia_adeliensis_Ng1_33	16802																	none
+Naganishia_adeliensis_Ng1_34	12752				0	4	26					assembly	27	extend			confirmed	one_end
+Naganishia_adeliensis_Ng1_35	8888				0	4	26					assembly					unverifiable	one_end
+Naganishia_adeliensis_Ng1_36	8537																	none
+Naganishia_adeliensis_Ng1_37	7920																	none
+Naganishia_adeliensis_Ng1_38	7842																	none
+Naganishia_adeliensis_Ng1_39	6178																	none
+Naganishia_adeliensis_Ng1_40	4513																	none

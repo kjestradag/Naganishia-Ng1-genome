@@ -1,0 +1,72 @@
+new_locus_tag	new_transcript_id	feature_type	contig	start	end	strand	product
+NadelNg1_006870	NadelNg1_006870	mRNA	Naganishia_adeliensis_Ng1_27	467	865	+	hypothetical protein
+NadelNg1_006871	NadelNg1_006871	mRNA	Naganishia_adeliensis_Ng1_27	1338	1595	+	hypothetical protein
+NadelNg1_006872	NadelNg1_006872	tRNA	Naganishia_adeliensis_Ng1_27	2024	2096	+	tRNA-Asp
+NadelNg1_006873	NadelNg1_006873	mRNA	Naganishia_adeliensis_Ng1_27	2240	2506	+	NADH-ubiquinone oxidoreductase chain 4L
+NadelNg1_006874	NadelNg1_006874	mRNA	Naganishia_adeliensis_Ng1_27	2506	2946	+	NADH-ubiquinone oxidoreductase chain 5
+NadelNg1_006875	NadelNg1_006875	mRNA	Naganishia_adeliensis_Ng1_27	4086	4316	+	hypothetical protein
+NadelNg1_006876	NadelNg1_006876	mRNA	Naganishia_adeliensis_Ng1_27	4456	4593	+	hypothetical protein
+NadelNg1_006877	NadelNg1_006877	mRNA	Naganishia_adeliensis_Ng1_27	4686	4847	+	hypothetical protein
+NadelNg1_006878	NadelNg1_006878	mRNA	Naganishia_adeliensis_Ng1_27	5178	5492	+	NADH-ubiquinone oxidoreductase chain 5
+NadelNg1_006879	NadelNg1_006879	mRNA	Naganishia_adeliensis_Ng1_27	5993	7048	+	NADH-ubiquinone oxidoreductase chain 5
+NadelNg1_006880	NadelNg1_006880	tRNA	Naganishia_adeliensis_Ng1_27	7147	7229	+	tRNA-Leu
+NadelNg1_006881	NadelNg1_006881	mRNA	Naganishia_adeliensis_Ng1_27	7310	8824	+	NADH-ubiquinone oxidoreductase chain 2
+NadelNg1_006882	NadelNg1_006882	mRNA	Naganishia_adeliensis_Ng1_27	8824	9207	+	NADH-ubiquinone oxidoreductase chain 3
+NadelNg1_006883	NadelNg1_006883	mRNA	Naganishia_adeliensis_Ng1_27	10772	10948	+	hypothetical protein
+NadelNg1_006884	NadelNg1_006884	tRNA	Naganishia_adeliensis_Ng1_27	11493	11562	-	tRNA-His
+NadelNg1_006885	NadelNg1_006885	tRNA	Naganishia_adeliensis_Ng1_27	13107	13189	+	tRNA-Leu
+NadelNg1_006886	NadelNg1_006886	tRNA	Naganishia_adeliensis_Ng1_27	13261	13333	+	tRNA-Arg
+NadelNg1_006887	NadelNg1_006887	tRNA	Naganishia_adeliensis_Ng1_27	13341	13411	+	tRNA-Val
+NadelNg1_006888	NadelNg1_006888	mRNA	Naganishia_adeliensis_Ng1_27	13563	13910	+	Cytochrome c oxidase subunit 2
+NadelNg1_006889	NadelNg1_006889	mRNA	Naganishia_adeliensis_Ng1_27	15041	15220	+	hypothetical protein
+NadelNg1_006890	NadelNg1_006890	mRNA	Naganishia_adeliensis_Ng1_27	15403	15642	+	hypothetical protein
+NadelNg1_006891	NadelNg1_006891	mRNA	Naganishia_adeliensis_Ng1_27	15694	15876	+	hypothetical protein
+NadelNg1_006892	NadelNg1_006892	mRNA	Naganishia_adeliensis_Ng1_27	16159	16413	+	Cytochrome c oxidase subunit 2
+NadelNg1_006893	NadelNg1_006893	mRNA	Naganishia_adeliensis_Ng1_27	16606	16803	+	hypothetical protein
+NadelNg1_006894	NadelNg1_006894	mRNA	Naganishia_adeliensis_Ng1_27	17114	17371	+	hypothetical protein
+NadelNg1_006895	NadelNg1_006895	mRNA	Naganishia_adeliensis_Ng1_27	17450	17920	+	hypothetical protein
+NadelNg1_006896	NadelNg1_006896	mRNA	Naganishia_adeliensis_Ng1_27	18143	18310	+	NADH-ubiquinone oxidoreductase chain 1
+NadelNg1_006897	NadelNg1_006897	mRNA	Naganishia_adeliensis_Ng1_27	19188	20135	+	NADH-ubiquinone oxidoreductase chain 1
+NadelNg1_006898	NadelNg1_006898	tRNA	Naganishia_adeliensis_Ng1_27	20516	20587	+	tRNA-Ala
+NadelNg1_006899	NadelNg1_006899	tRNA	Naganishia_adeliensis_Ng1_27	20622	20694	+	tRNA-Phe
+NadelNg1_006900	NadelNg1_006900	tRNA	Naganishia_adeliensis_Ng1_27	20700	20781	+	tRNA-Tyr
+NadelNg1_006901	NadelNg1_006901	tRNA	Naganishia_adeliensis_Ng1_27	20809	20896	+	tRNA-Ser
+NadelNg1_006902	NadelNg1_006902	mRNA	Naganishia_adeliensis_Ng1_27	21277	21987	+	Cytochrome c oxidase subunit 3
+NadelNg1_006903	NadelNg1_006903	tRNA	Naganishia_adeliensis_Ng1_27	22445	22514	+	tRNA-Cys
+NadelNg1_006904	NadelNg1_006904	tRNA	Naganishia_adeliensis_Ng1_27	22658	22729	+	tRNA-Ile
+NadelNg1_006905	NadelNg1_006905	mRNA	Naganishia_adeliensis_Ng1_27	23031	23237	+	Cytochrome b
+NadelNg1_006906	NadelNg1_006906	mRNA	Naganishia_adeliensis_Ng1_27	23407	24048	+	Cytochrome b
+NadelNg1_006907	NadelNg1_006907	mRNA	Naganishia_adeliensis_Ng1_27	24477	24791	+	Cytochrome b
+NadelNg1_006908	NadelNg1_006908	tRNA	Naganishia_adeliensis_Ng1_27	24919	24990	+	tRNA-His
+NadelNg1_006909	NadelNg1_006909	tRNA	Naganishia_adeliensis_Ng1_27	25581	25653	+	tRNA-Met
+NadelNg1_006910	NadelNg1_006910	mRNA	Naganishia_adeliensis_Ng1_27	25926	26666	+	hypothetical protein
+NadelNg1_006911	NadelNg1_006911	tRNA	Naganishia_adeliensis_Ng1_27	26786	26856	+	tRNA-Met
+NadelNg1_006912	NadelNg1_006912	tRNA	Naganishia_adeliensis_Ng1_27	26916	26987	+	tRNA-Glu
+NadelNg1_006913	NadelNg1_006913	tRNA	Naganishia_adeliensis_Ng1_27	27061	27132	+	tRNA-Thr
+NadelNg1_006914	NadelNg1_006914	tRNA	Naganishia_adeliensis_Ng1_27	27171	27243	+	tRNA-Gln
+NadelNg1_006915	NadelNg1_006915	tRNA	Naganishia_adeliensis_Ng1_27	27350	27422	+	tRNA-Lys
+NadelNg1_006916	NadelNg1_006916	tRNA	Naganishia_adeliensis_Ng1_27	28947	29022	+	tRNA-Arg
+NadelNg1_006917	NadelNg1_006917	mRNA	Naganishia_adeliensis_Ng1_27	31075	31836	-	ATP synthase subunit a
+NadelNg1_006918	NadelNg1_006918	mRNA	Naganishia_adeliensis_Ng1_27	32369	32653	-	Cytochrome c oxidase subunit 1
+NadelNg1_006919	NadelNg1_006919	mRNA	Naganishia_adeliensis_Ng1_27	32665	32814	-	hypothetical protein
+NadelNg1_006920	NadelNg1_006920	mRNA	Naganishia_adeliensis_Ng1_27	33325	33516	-	hypothetical protein
+NadelNg1_006921	NadelNg1_006921	mRNA	Naganishia_adeliensis_Ng1_27	33947	34171	-	Cytochrome c oxidase subunit 1
+NadelNg1_006922	NadelNg1_006922	mRNA	Naganishia_adeliensis_Ng1_27	34281	34850	-	hypothetical protein
+NadelNg1_006923	NadelNg1_006923	tRNA	Naganishia_adeliensis_Ng1_27	35516	35584	-	tRNA-Val
+NadelNg1_006924	NadelNg1_006924	mRNA	Naganishia_adeliensis_Ng1_27	35634	35960	-	hypothetical protein
+NadelNg1_006925	NadelNg1_006925	tRNA	Naganishia_adeliensis_Ng1_27	37236	37321	+	tRNA-Leu
+NadelNg1_006926	NadelNg1_006926	mRNA	Naganishia_adeliensis_Ng1_27	38875	39972	-	hypothetical protein
+NadelNg1_006927	NadelNg1_006927	mRNA	Naganishia_adeliensis_Ng1_27	40040	41098	-	hypothetical protein
+NadelNg1_006928	NadelNg1_006928	mRNA	Naganishia_adeliensis_Ng1_27	41741	41932	-	hypothetical protein
+NadelNg1_006929	NadelNg1_006929	mRNA	Naganishia_adeliensis_Ng1_27	42089	42373	-	hypothetical protein
+NadelNg1_006930	NadelNg1_006930	mRNA	Naganishia_adeliensis_Ng1_27	42535	42828	-	Cytochrome c oxidase subunit 1
+NadelNg1_006931	NadelNg1_006931	mRNA	Naganishia_adeliensis_Ng1_27	44194	44439	-	Cytochrome c oxidase subunit 1
+NadelNg1_006932	NadelNg1_006932	mRNA	Naganishia_adeliensis_Ng1_27	44968	46419	+	NADH-ubiquinone oxidoreductase chain 4
+NadelNg1_006933	NadelNg1_006933	mRNA	Naganishia_adeliensis_Ng1_27	51052	51159	-	hypothetical protein
+NadelNg1_006934	NadelNg1_006934	tRNA	Naganishia_adeliensis_Ng1_27	51382	51453	+	tRNA-Pro
+NadelNg1_006935	NadelNg1_006935	tRNA	Naganishia_adeliensis_Ng1_27	51552	51625	+	tRNA-Asn
+NadelNg1_006936	NadelNg1_006936	mRNA	Naganishia_adeliensis_Ng1_27	51880	52530	+	NADH-ubiquinone oxidoreductase chain 6
+NadelNg1_006937	NadelNg1_006937	tRNA	Naganishia_adeliensis_Ng1_27	52854	52924	+	tRNA-Trp
+NadelNg1_006938	NadelNg1_006938	tRNA	Naganishia_adeliensis_Ng1_27	52958	53029	+	tRNA-Gly
+NadelNg1_006939	NadelNg1_006939	mRNA	Naganishia_adeliensis_Ng1_27	54000	54152	+	hypothetical protein
+NadelNg1_006940	NadelNg1_006940	tRNA	Naganishia_adeliensis_Ng1_27	54566	54633	+	tRNA-Leu

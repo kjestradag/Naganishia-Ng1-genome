@@ -1,0 +1,11 @@
+Telomere analysis, N. adeliensis Ng1. The ONT and Illumina alignments (BAM) are not included; generate them with:
+  minimap2 2.11 -t 28 -ax map-ont -Y Naganishia_sp_asm.scaffolds.fa ../Ng1.pc.fastq | samtools sort -o ont.bam   (~1 min)
+  minimap2 2.11 -t 24 -ax sr Naganishia_sp_asm.scaffolds.fa pilonall/Ng1_S34_R1.fastq.gz ..._R2.fastq.gz | samtools sort -o ill.bam
+Order:
+  1. telomeros_ont/endclips.py ont.bam ../Naganishia_sp_asm.scaffolds.fa > telomeros_ont/endclips.txt
+  2. telomeros_ont/ont_end_support.py endclips.txt ont.bam scaffolds.fa.fai > ont_end_support.tsv   (trim junctions)
+  3. telomeros_ont/audit_read_termini.py ont.bam scaffolds.fa.fai ont_end_support.tsv > audit_read_termini.tsv
+     (reads ending in telomere vs continuing; null on internal read ends; this is the ONT criterion)
+  4. telomeros_ont/overhang_length.py (optional; soft-clip overhang lengths)
+  5. fig1A_telomeres.py ../Naganishia_sp_asm.scaffolds.fa Fig1A_telomeres telomeros_ont/ont_end_support.tsv telomeros_ont/audit_read_termini.tsv
+  6. telomeros_ont/make_table_telomeres.py S1_Table_telomeres

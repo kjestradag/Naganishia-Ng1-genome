@@ -1,0 +1,1 @@
+linux64.table2asn -M n -J -c w -euk -t template.sbt -w genome.asm -gaps-min 10 -l paired-ends -j "[organism=Naganishia adeliensis] [strain=Ng1] [tech=wgs]" -locus-tag-prefix NadelNg1 -i Naganishia_sp_asm.scaffolds.fa -f Naganishia_sp_asm_with_annot.gff3 -o output_file.sqn -Z -V b

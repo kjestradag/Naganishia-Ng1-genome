@@ -1,0 +1,19 @@
+rank	accession	organism	mode	C	S	D	F	M	C_augustus_previous
+1	GCA_042257065.1	N. uzbekistanensis	euk_genome_min	93.9	93.5	0.4	0.9	5.2	92.1
+2	GCA_030039255.1	N. friedmannii	euk_genome_min	93.7	93.2	0.5	0.8	5.6	83.2 (prot)
+3	GCA_030039215.1	N. onofrii	euk_genome_min	93.5	93.1	0.4	1.1	5.4	88.6
+4	GCA_015708705.1	N. vishniacii ANT03-052	euk_genome_min	93.3	92.9	0.3	1.0	5.8	89.6
+5	GCA_013461525.1	N. randhawae	euk_genome_min	93.1	92.9	0.2	1.0	5.8	88.6
+6	GCA_030039245.1	N. vaughanmartiniae	euk_genome_min	93.1	92.7	0.4	0.9	6.0	89.0
+7	GCA_022813745.1	N. kalamii	euk_genome_min	92.8	92.3	0.5	0.9	6.3	92.5
+8	GCA_025758675.1	N. antarctica	euk_genome_min	92.4	92.1	0.3	1.9	5.7	90.0
+9	GCA_037832395.1	N. diffluens	euk_genome_min	92.3	92.2	0.2	0.9	6.8	91.2
+10	GCA_012922715.1	N. adeliensis IF1SW-F1	euk_genome_min	92.3	92.2	0.2	0.9	6.8	90.4
+11	ng1	N. adeliensis Ng1	euk_genome_min	92.2	92.1	0.2	0.9	6.9	90.6
+12	GCA_013423385.1	N. liquefaciens	euk_genome_min	92.1	91.8	0.2	0.8	7.1	90.7
+13	GCA_012922685.1	Naganishia sp. IF7SW-B1	euk_genome_min	92.1	92.0	0.2	0.9	7.0	90.1
+14	GCA_023628075.1	Naganishia sp. PG3902-1	euk_genome_min	92.1	92.0	0.1	0.8	7.1	91.0
+15	GCA_001599735.1	N. albida	euk_genome_min	92.1	91.6	0.5	1.1	6.9	91.7
+16	GCA_023628115.1	Naganishia sp. PT2105A-2	euk_genome_min	89.3	88.0	1.2	1.5	9.2	88.9
+17	GCA_023628055.1	Naganishia sp. PT2105A	euk_genome_min	88.7	87.9	0.8	1.8	9.6	87.6
+18	GCA_030039265.1	N. cerealis	euk_genome_min	83.7	73.4	10.3	1.2	15.1	66.8 (prot)

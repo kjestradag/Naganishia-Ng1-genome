@@ -1,0 +1,198 @@
+org: Nahanishia claudiae
+orgID: 
+Size of the longest scaffold ==> 2248611
+N50/L50 scaffolds ==> 1162826 / 7
+N90/L90 scaffolds ==> 433839 / 18
+Total bases in the assembly ==> 19702782
+No. of scaffolds ==> 40
+GC% ==>	0.53
+CDS ==> 6775
+Busco ==> basidiomycota/C:93.4%
+
+org:Naganishia uzbekistanensis
+orgID:GCA_042257065.1
+Size of the longest scaffold ==> 1786535
+N50/L50 scaffolds ==> 1251476 / 8
+N90/L90 scaffolds ==> 418742 / 22
+Total bases in the assembly ==> 24365068
+No. of scaffolds ==> 35
+GC% ==>	0.53
+CDS ==> 
+Busco ==> basidiomycota/C:92.1%
+
+org:Naganishia diffluens
+orgID:GCA_037832395.1
+Size of the longest scaffold ==> 1793635
+N50/L50 scaffolds ==> 804281 / 8
+N90/L90 scaffolds ==> 320670 / 21
+Total bases in the assembly ==> 19092136
+No. of scaffolds ==> 40
+GC% ==>	0.54
+CDS ==> 
+Busco ==> basidiomycota/C:91.2%
+
+org:Naganishia cerealis
+orgID:GCA_030039265.1
+Size of the longest scaffold ==> 555800
+N50/L50 scaffolds ==> 179191 / 49
+N90/L90 scaffolds ==> 84603 / 130
+Total bases in the assembly ==> 24976512
+No. of scaffolds ==> 165
+GC% ==>	0.49
+CDS ==> 9284
+Busco ==> basidiomycota/C:66.8%
+
+org:Naganishia friedmannii
+orgID:GCA_030039255.1
+Size of the longest scaffold ==> 2008807
+N50/L50 scaffolds ==> 751469 / 12
+N90/L90 scaffolds ==> 152953 / 37
+Total bases in the assembly ==> 23839142
+No. of scaffolds ==> 102
+GC% ==>	0.51
+CDS ==> 7205
+Busco ==> basidiomycota/C:83.2%
+
+org:Naganishia vaughanmartiniae
+orgID:GCA_030039245.1
+Size of the longest scaffold ==> 2054179
+N50/L50 scaffolds ==> 892046 / 9
+N90/L90 scaffolds ==> 255012 / 24
+Total bases in the assembly ==> 23003986
+No. of scaffolds ==> 64
+GC% ==>	0.51
+CDS ==> 6621
+Busco ==> basidiomycota/C:89.0%
+
+org:Naganishia onofrii
+orgID:GCA_030039215.1
+Size of the longest scaffold ==> 2129639
+N50/L50 scaffolds ==> 686970 / 12
+N90/L90 scaffolds ==> 218902 / 33
+Total bases in the assembly ==> 23784507
+No. of scaffolds ==> 68
+GC% ==>	0.51
+CDS ==> 6962
+Busco ==> basidiomycota/C:88.6%
+
+org:Naganishia antarctica
+orgID:GCA_025758675.1
+Size of the longest scaffold ==> 514185
+N50/L50 scaffolds ==> 165898 / 42
+N90/L90 scaffolds ==> 36000 / 146
+Total bases in the assembly ==> 21218161
+No. of scaffolds ==> 401
+GC% ==>	0.52
+CDS ==> 
+Busco ==> basidiomycota/C:90.0%
+
+org:Naganishia sp. PT2105A-2
+orgID:GCA_023628115.1
+Size of the longest scaffold ==> 581750
+N50/L50 scaffolds ==> 190850 / 32
+N90/L90 scaffolds ==> 55895 / 102
+Total bases in the assembly ==> 19387214
+No. of scaffolds ==> 228
+GC% ==>	0.54
+CDS ==> 
+Busco ==> basidiomycota/C:88.9%
+
+org:Naganishia sp. PG3902-1
+orgID:GCA_023628075.1
+Size of the longest scaffold ==> 1379740
+N50/L50 scaffolds ==> 663593 / 9
+N90/L90 scaffolds ==> 150834 / 27
+Total bases in the assembly ==> 19038063
+No. of scaffolds ==> 84
+GC% ==>	0.54
+CDS ==> 
+Busco ==> basidiomycota/C:91.0%
+
+org:Naganishia sp. PT2105A
+orgID:GCA_023628055.1
+Size of the longest scaffold ==> 528099
+N50/L50 scaffolds ==> 162721 / 36
+N90/L90 scaffolds ==> 57001 / 110
+Total bases in the assembly ==> 18629844
+No. of scaffolds ==> 209
+GC% ==>	0.54
+CDS ==> 
+Busco ==> basidiomycota/C:87.6%
+
+org:Naganishia kalamii
+orgID:GCA_022813745.1
+Size of the longest scaffold ==> 1000601
+N50/L50 scaffolds ==> 190774 / 38
+N90/L90 scaffolds ==> 30201 / 170
+Total bases in the assembly ==> 27861060
+No. of scaffolds ==> 478
+GC% ==>	0.54
+CDS ==> 
+Busco ==> basidiomycota/C:92.5%
+
+org:Naganishia vishniacii ANT03-052
+orgID:GCA_015708705.1
+Size of the longest scaffold ==> 1840649
+N50/L50 scaffolds ==> 1080776 / 8
+N90/L90 scaffolds ==> 412918 / 19
+Total bases in the assembly ==> 19679091
+No. of scaffolds ==> 38
+GC% ==>	0.53
+CDS ==> 
+Busco ==> basidiomycota/C:89.6%
+
+org:Naganishia randhawae
+orgID:GCA_013461525.1
+Size of the longest scaffold ==> 793440
+N50/L50 scaffolds ==> 191697 / 30
+N90/L90 scaffolds ==> 31855 / 134
+Total bases in the assembly ==> 20271596
+No. of scaffolds ==> 386
+GC% ==>	0.52
+CDS ==> 
+Busco ==> basidiomycota/C:88.6%
+
+org:Naganishia liquefaciens
+orgID:GCA_013423385.1
+Size of the longest scaffold ==> 1630525
+N50/L50 scaffolds ==> 1033977 / 8
+N90/L90 scaffolds ==> 436831 / 20
+Total bases in the assembly ==> 19492980
+No. of scaffolds ==> 59
+GC% ==>	0.53
+CDS ==> 6883
+Busco ==> basidiomycota/C:90.7%
+
+org:Naganishia adeliensis
+orgID:GCA_012922715.1
+Size of the longest scaffold ==> 1169453
+N50/L50 scaffolds ==> 506784 / 13
+N90/L90 scaffolds ==> 104163 / 43
+Total bases in the assembly ==> 19403212
+No. of scaffolds ==> 149
+GC% ==>	0.53
+CDS ==> 
+Busco ==> basidiomycota/C:90.4%
+
+org:Naganishia sp. IF7SW-B1
+orgID:GCA_012922685.1
+Size of the longest scaffold ==> 1185227
+N50/L50 scaffolds ==> 511828 / 13
+N90/L90 scaffolds ==> 113413 / 40
+Total bases in the assembly ==> 19429219
+No. of scaffolds ==> 123
+GC% ==>	0.53
+CDS ==> 
+Busco ==> basidiomycota/C:90.1%
+
+org:Naganishia albida
+orgID:GCA_001599735.1
+Size of the longest scaffold ==> 1576301
+N50/L50 scaffolds ==> 975819 / 9
+N90/L90 scaffolds ==> 241925 / 24
+Total bases in the assembly ==> 20697359
+No. of scaffolds ==> 74
+GC% ==>	0.54
+CDS ==> 
+Busco ==> basidiomycota/C:91.7%
+

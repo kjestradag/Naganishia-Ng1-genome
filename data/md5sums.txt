@@ -1,0 +1,11 @@
+4856b092581e35bde92e63e4936f60fc  ./annotation/FUN_to_NadelNg1_locus_map.tsv.gz
+951adc56cf64fdef9bd646dd2c7ceea8  ./annotation/NadelNg1_genes_without_FUN_equivalent.tsv
+44a8ea741ca753e0c678cccd69fefcce  ./annotation/Naganishia_adeliensis_Ng1_cds.ffn.gz
+ffc033c98c2a19d4d98a428b5e032a6b  ./annotation/Naganishia_adeliensis_Ng1.gbf.gz
+2d947a8a87ca87c1ab0c074a6ae37fa1  ./annotation/Naganishia_adeliensis_Ng1.gff3.gz
+b7560041ef2014256fa0d7851a079bfb  ./annotation/Naganishia_adeliensis_Ng1_proteins.faa.gz
+dfb2fa842e7d89c0dfc39200847fda78  ./functional_annotation/Naganishia_adeliensis_Ng1_curated_products.tsv.gz
+d722ef6209fb19659577092687b5f892  ./functional_annotation/Naganishia_adeliensis_Ng1.emapper.annotations.gz
+8e2b36f64957f27c3bcaaab9344dfa44  ./functional_annotation/Naganishia_Ng1_plant_interaction_gene_catalog.xlsx
+6c2a9b07a04f59f76e5abc695c064dfa  ./functional_annotation/Naganishia_Ng1_SwissProt_Pfam_annotation_FUNids.tsv.gz
+3efce0599b2e02372c2cd9cd20a25673  ./genome/Naganishia_adeliensis_Ng1_genome.fa.gz

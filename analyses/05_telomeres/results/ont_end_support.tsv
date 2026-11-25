@@ -1,0 +1,79 @@
+scaffold	end	ont_support	reads	clip_dist_from_end	terminal_depth	inner_depth
+Naganishia_adeliensis_Ng1_1	3	extend	26	0		
+Naganishia_adeliensis_Ng1_1	5	none				
+Naganishia_adeliensis_Ng1_2	3	none				
+Naganishia_adeliensis_Ng1_2	5	extend	19	0		
+Naganishia_adeliensis_Ng1_3	3	none				
+Naganishia_adeliensis_Ng1_3	5	none				
+Naganishia_adeliensis_Ng1_4	3	none				
+Naganishia_adeliensis_Ng1_4	5	extend	17	100		
+Naganishia_adeliensis_Ng1_5	3	extend	19	0		
+Naganishia_adeliensis_Ng1_5	5	extend	23	0		
+Naganishia_adeliensis_Ng1_6	3	extend	25	0		
+Naganishia_adeliensis_Ng1_6	5	none				
+Naganishia_adeliensis_Ng1_7	3	trim	16	3900	1.9	59.2
+Naganishia_adeliensis_Ng1_7	5	extend	21	0		
+Naganishia_adeliensis_Ng1_8	3	none				
+Naganishia_adeliensis_Ng1_8	5	none				
+Naganishia_adeliensis_Ng1_9	3	none				
+Naganishia_adeliensis_Ng1_9	5	extend	34	0		
+Naganishia_adeliensis_Ng1_10	3	none				
+Naganishia_adeliensis_Ng1_10	5	extend	22	0		
+Naganishia_adeliensis_Ng1_11	3	trim	17	2300	0.0	30.4
+Naganishia_adeliensis_Ng1_11	5	extend	5	0		
+Naganishia_adeliensis_Ng1_12	3	none				
+Naganishia_adeliensis_Ng1_12	5	trim	13	2400	3.2	41.2
+Naganishia_adeliensis_Ng1_13	3	none				
+Naganishia_adeliensis_Ng1_13	5	none				
+Naganishia_adeliensis_Ng1_14	3	none				
+Naganishia_adeliensis_Ng1_14	5	extend	32	0		
+Naganishia_adeliensis_Ng1_15	3	none				
+Naganishia_adeliensis_Ng1_15	5	extend	26	0		
+Naganishia_adeliensis_Ng1_16	3	none				
+Naganishia_adeliensis_Ng1_16	5	trim	6	1000	1.0	28.9
+Naganishia_adeliensis_Ng1_17	3	extend	9	0		
+Naganishia_adeliensis_Ng1_17	5	none				
+Naganishia_adeliensis_Ng1_18	3	none				
+Naganishia_adeliensis_Ng1_18	5	extend	46	0		
+Naganishia_adeliensis_Ng1_19	3	extend	32	0		
+Naganishia_adeliensis_Ng1_19	5	none				
+Naganishia_adeliensis_Ng1_20	3	none				
+Naganishia_adeliensis_Ng1_20	5	none				
+Naganishia_adeliensis_Ng1_21	3	extend	30	0		
+Naganishia_adeliensis_Ng1_21	5	trim	7	1700	13.0	66.7
+Naganishia_adeliensis_Ng1_22	3	none				
+Naganishia_adeliensis_Ng1_22	5	trim	16	1400	9.7	41.0
+Naganishia_adeliensis_Ng1_23	3	none				
+Naganishia_adeliensis_Ng1_23	5	none				
+Naganishia_adeliensis_Ng1_24	3	none				
+Naganishia_adeliensis_Ng1_24	5	none				
+Naganishia_adeliensis_Ng1_25	3	none				
+Naganishia_adeliensis_Ng1_25	5	none				
+Naganishia_adeliensis_Ng1_26	3	extend	10	0		
+Naganishia_adeliensis_Ng1_26	5	none				
+Naganishia_adeliensis_Ng1_28	3	none				
+Naganishia_adeliensis_Ng1_28	5	none				
+Naganishia_adeliensis_Ng1_29	3	none				
+Naganishia_adeliensis_Ng1_29	5	none				
+Naganishia_adeliensis_Ng1_30	3	none				
+Naganishia_adeliensis_Ng1_30	5	none				
+Naganishia_adeliensis_Ng1_31	3	none				
+Naganishia_adeliensis_Ng1_31	5	none				
+Naganishia_adeliensis_Ng1_32	3	none				
+Naganishia_adeliensis_Ng1_32	5	none				
+Naganishia_adeliensis_Ng1_33	3	none				
+Naganishia_adeliensis_Ng1_33	5	none				
+Naganishia_adeliensis_Ng1_34	3	extend	27	0		
+Naganishia_adeliensis_Ng1_34	5	none				
+Naganishia_adeliensis_Ng1_35	3	none				
+Naganishia_adeliensis_Ng1_35	5	none				
+Naganishia_adeliensis_Ng1_36	3	none				
+Naganishia_adeliensis_Ng1_36	5	none				
+Naganishia_adeliensis_Ng1_37	3	none				
+Naganishia_adeliensis_Ng1_37	5	none				
+Naganishia_adeliensis_Ng1_38	3	none				
+Naganishia_adeliensis_Ng1_38	5	none				
+Naganishia_adeliensis_Ng1_39	3	none				
+Naganishia_adeliensis_Ng1_39	5	none				
+Naganishia_adeliensis_Ng1_40	3	none				
+Naganishia_adeliensis_Ng1_40	5	none				

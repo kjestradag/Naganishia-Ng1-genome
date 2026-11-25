@@ -1,0 +1,78 @@
+  1 3'  depth_end= 53  telomeric_clip_clusters(dist_from_end:reads)=[(1800, 52), (6300, 29), (0, 26), (9900, 16)]  nontel_clips=86
+  1 5'  depth_end= 32  telomeric_clip_clusters(dist_from_end:reads)=[]  nontel_clips=17
+  2 3'  depth_end= 12  telomeric_clip_clusters(dist_from_end:reads)=[]  nontel_clips=22
+  2 5'  depth_end= 26  telomeric_clip_clusters(dist_from_end:reads)=[(0, 19)]  nontel_clips=6
+  3 3'  depth_end=  1  telomeric_clip_clusters(dist_from_end:reads)=[(1500, 11), (800, 4)]  nontel_clips=10
+  3 5'  depth_end= 10  telomeric_clip_clusters(dist_from_end:reads)=[]  nontel_clips=14
+  4 3'  depth_end= 25  telomeric_clip_clusters(dist_from_end:reads)=[(0, 4)]  nontel_clips=9
+  4 5'  depth_end= 12  telomeric_clip_clusters(dist_from_end:reads)=[(100, 17)]  nontel_clips=4
+  5 3'  depth_end= 25  telomeric_clip_clusters(dist_from_end:reads)=[(0, 19)]  nontel_clips=12
+  5 5'  depth_end= 23  telomeric_clip_clusters(dist_from_end:reads)=[(0, 23)]  nontel_clips=4
+  6 3'  depth_end= 25  telomeric_clip_clusters(dist_from_end:reads)=[(0, 25)]  nontel_clips=33
+  6 5'  depth_end= 58  telomeric_clip_clusters(dist_from_end:reads)=[]  nontel_clips=71
+  7 3'  depth_end=  2  telomeric_clip_clusters(dist_from_end:reads)=[(3900, 16)]  nontel_clips=23
+  7 5'  depth_end= 29  telomeric_clip_clusters(dist_from_end:reads)=[(0, 21), (3600, 3)]  nontel_clips=38
+  8 3'  depth_end= 30  telomeric_clip_clusters(dist_from_end:reads)=[(0, 3)]  nontel_clips=19
+  8 5'  depth_end= 30  telomeric_clip_clusters(dist_from_end:reads)=[]  nontel_clips=38
+  9 3'  depth_end= 16  telomeric_clip_clusters(dist_from_end:reads)=[]  nontel_clips=24
+  9 5'  depth_end= 36  telomeric_clip_clusters(dist_from_end:reads)=[(0, 34)]  nontel_clips=16
+ 10 3'  depth_end=291  telomeric_clip_clusters(dist_from_end:reads)=[(4000, 25), (11700, 10), (6300, 4)]  nontel_clips=479
+ 10 5'  depth_end= 28  telomeric_clip_clusters(dist_from_end:reads)=[(0, 22), (5500, 12)]  nontel_clips=15
+ 11 3'  depth_end=  0  telomeric_clip_clusters(dist_from_end:reads)=[(2300, 17)]  nontel_clips=16
+ 11 5'  depth_end= 51  telomeric_clip_clusters(dist_from_end:reads)=[(0, 5)]  nontel_clips=12
+ 12 3'  depth_end= 40  telomeric_clip_clusters(dist_from_end:reads)=[]  nontel_clips=47
+ 12 5'  depth_end=  1  telomeric_clip_clusters(dist_from_end:reads)=[(2400, 13)]  nontel_clips=12
+ 13 3'  depth_end=  2  telomeric_clip_clusters(dist_from_end:reads)=[]  nontel_clips=5
+ 13 5'  depth_end=  9  telomeric_clip_clusters(dist_from_end:reads)=[]  nontel_clips=60
+ 14 3'  depth_end=  2  telomeric_clip_clusters(dist_from_end:reads)=[]  nontel_clips=6
+ 14 5'  depth_end= 35  telomeric_clip_clusters(dist_from_end:reads)=[(0, 32)]  nontel_clips=6
+ 15 3'  depth_end= 22  telomeric_clip_clusters(dist_from_end:reads)=[]  nontel_clips=15
+ 15 5'  depth_end= 31  telomeric_clip_clusters(dist_from_end:reads)=[(0, 26), (2600, 19)]  nontel_clips=44
+ 16 3'  depth_end=  1  telomeric_clip_clusters(dist_from_end:reads)=[]  nontel_clips=23
+ 16 5'  depth_end=  1  telomeric_clip_clusters(dist_from_end:reads)=[(1000, 6)]  nontel_clips=24
+ 17 3'  depth_end= 13  telomeric_clip_clusters(dist_from_end:reads)=[(0, 9)]  nontel_clips=6
+ 17 5'  depth_end= 20  telomeric_clip_clusters(dist_from_end:reads)=[]  nontel_clips=67
+ 18 3'  depth_end= 27  telomeric_clip_clusters(dist_from_end:reads)=[]  nontel_clips=8
+ 18 5'  depth_end= 54  telomeric_clip_clusters(dist_from_end:reads)=[(0, 46), (400, 3)]  nontel_clips=8
+ 19 3'  depth_end= 42  telomeric_clip_clusters(dist_from_end:reads)=[(0, 32)]  nontel_clips=8
+ 19 5'  depth_end= 62  telomeric_clip_clusters(dist_from_end:reads)=[]  nontel_clips=82
+ 20 3'  depth_end= 21  telomeric_clip_clusters(dist_from_end:reads)=[]  nontel_clips=11
+ 20 5'  depth_end= 24  telomeric_clip_clusters(dist_from_end:reads)=[]  nontel_clips=30
+ 21 3'  depth_end= 37  telomeric_clip_clusters(dist_from_end:reads)=[(0, 30)]  nontel_clips=12
+ 21 5'  depth_end=  1  telomeric_clip_clusters(dist_from_end:reads)=[(1700, 7)]  nontel_clips=35
+ 22 3'  depth_end=133  telomeric_clip_clusters(dist_from_end:reads)=[]  nontel_clips=150
+ 22 5'  depth_end=  3  telomeric_clip_clusters(dist_from_end:reads)=[(1400, 16), (800, 7)]  nontel_clips=23
+ 23 3'  depth_end= 10  telomeric_clip_clusters(dist_from_end:reads)=[]  nontel_clips=12
+ 23 5'  depth_end=  0  telomeric_clip_clusters(dist_from_end:reads)=[(3300, 3)]  nontel_clips=9
+ 24 3'  depth_end= 71  telomeric_clip_clusters(dist_from_end:reads)=[]  nontel_clips=95
+ 24 5'  depth_end=101  telomeric_clip_clusters(dist_from_end:reads)=[]  nontel_clips=118
+ 25 3'  depth_end=105  telomeric_clip_clusters(dist_from_end:reads)=[]  nontel_clips=201
+ 25 5'  depth_end= 31  telomeric_clip_clusters(dist_from_end:reads)=[]  nontel_clips=43
+ 26 3'  depth_end= 34  telomeric_clip_clusters(dist_from_end:reads)=[(0, 10)]  nontel_clips=8
+ 26 5'  depth_end= 38  telomeric_clip_clusters(dist_from_end:reads)=[]  nontel_clips=47
+ 28 3'  depth_end=  1  telomeric_clip_clusters(dist_from_end:reads)=[]  nontel_clips=5
+ 28 5'  depth_end= 39  telomeric_clip_clusters(dist_from_end:reads)=[(0, 4)]  nontel_clips=8
+ 29 3'  depth_end= 44  telomeric_clip_clusters(dist_from_end:reads)=[]  nontel_clips=50
+ 29 5'  depth_end= 37  telomeric_clip_clusters(dist_from_end:reads)=[]  nontel_clips=7
+ 30 3'  depth_end=  1  telomeric_clip_clusters(dist_from_end:reads)=[]  nontel_clips=1
+ 30 5'  depth_end=  2  telomeric_clip_clusters(dist_from_end:reads)=[]  nontel_clips=2
+ 31 3'  depth_end=  3  telomeric_clip_clusters(dist_from_end:reads)=[]  nontel_clips=3
+ 31 5'  depth_end=  3  telomeric_clip_clusters(dist_from_end:reads)=[]  nontel_clips=3
+ 32 3'  depth_end=  3  telomeric_clip_clusters(dist_from_end:reads)=[]  nontel_clips=3
+ 32 5'  depth_end=  0  telomeric_clip_clusters(dist_from_end:reads)=[]  nontel_clips=0
+ 33 3'  depth_end= 66  telomeric_clip_clusters(dist_from_end:reads)=[]  nontel_clips=74
+ 33 5'  depth_end= 68  telomeric_clip_clusters(dist_from_end:reads)=[]  nontel_clips=71
+ 34 3'  depth_end= 28  telomeric_clip_clusters(dist_from_end:reads)=[(10500, 47), (0, 27)]  nontel_clips=10
+ 34 5'  depth_end= 52  telomeric_clip_clusters(dist_from_end:reads)=[]  nontel_clips=62
+ 35 3'  depth_end=  1  telomeric_clip_clusters(dist_from_end:reads)=[]  nontel_clips=4
+ 35 5'  depth_end=  5  telomeric_clip_clusters(dist_from_end:reads)=[]  nontel_clips=6
+ 36 3'  depth_end=  1  telomeric_clip_clusters(dist_from_end:reads)=[]  nontel_clips=1
+ 36 5'  depth_end=  0  telomeric_clip_clusters(dist_from_end:reads)=[]  nontel_clips=0
+ 37 3'  depth_end=  3  telomeric_clip_clusters(dist_from_end:reads)=[]  nontel_clips=3
+ 37 5'  depth_end=  5  telomeric_clip_clusters(dist_from_end:reads)=[]  nontel_clips=5
+ 38 3'  depth_end=  1  telomeric_clip_clusters(dist_from_end:reads)=[]  nontel_clips=1
+ 38 5'  depth_end=  1  telomeric_clip_clusters(dist_from_end:reads)=[]  nontel_clips=1
+ 39 3'  depth_end= 29  telomeric_clip_clusters(dist_from_end:reads)=[]  nontel_clips=32
+ 39 5'  depth_end= 32  telomeric_clip_clusters(dist_from_end:reads)=[]  nontel_clips=36
+ 40 3'  depth_end=  3  telomeric_clip_clusters(dist_from_end:reads)=[]  nontel_clips=3
+ 40 5'  depth_end=  2  telomeric_clip_clusters(dist_from_end:reads)=[]  nontel_clips=2

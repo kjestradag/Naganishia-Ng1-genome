@@ -1,0 +1,170 @@
+"""
+Author: Karel Estrada and Fidel Alejandro Sanchez-Flores
+Affiliation: UUSMB
+Aim: GARM is a pipeline for merging two genomic assemblies.
+usage: snakemake (-np) -q --cores 2 --config G1=gemome1.fasta G2=genome2.fasta prefix=gemome1_and_genome2 iterations=4 -s /home/karel/bin/Snakefile_GARM2
+
+The output prefix and the number of iterations are flexible. The idea behind the iterations is that as merging occurs between two contigs, the resulting contig may better match another contig. Therefore, after each iteration, the input genomes are the results of the previous iteration, typically named consensus.fasta, which contains the merged contigs, and single.fasta, which contains contigs that remained unchanged in both genomes. GARM will stop after one of two conditions is met: 1) the specified number of iterations is completed, or 2) there are no more intersections between the two assemblies.
+
+NUCmer (NUCleotide MUMmer) version 3.1
+Latest modification: Thu Jul 11 05:12:45 PM CST 2024
+"""
+
+import os
+import shutil
+
+# Function to get prefixes for each iteration
+def get_prefix(iteration):
+    if iteration == 0:
+        return f"{config['prefix']}_iter0"
+    else:
+        return f"{config['prefix']}_iter{iteration}"
+
+# Obtener el número de iteraciones desde la configuración
+iterations = int(config["iterations"])
+
+# Lista de prefijos para todas las iteraciones
+prefixes = [get_prefix(i) for i in range(iterations)]
+
+rule all:
+    input:
+        "garm2_temp/final_output.done"
+
+# Regla para ejecutar Nucmer
+rule nucmer:
+    input:
+        genome1_ref = lambda wildcards: config["G1"] if wildcards.prefix == get_prefix(0) else f"{get_prefix(int(wildcards.prefix.split('_iter')[-1])-1)}.garm_consensus.fasta",
+        genome2_que = lambda wildcards: config["G2"] if wildcards.prefix == get_prefix(0) else f"{get_prefix(int(wildcards.prefix.split('_iter')[-1])-1)}.singles.fasta"
+    output:
+        delta = temp("{prefix}.delta")
+    params:
+        prefix = "{prefix}"
+    threads:
+        workflow.cores
+    message:
+        "Running {wildcards.prefix}"
+    shell:
+        """
+        # Verificar si el directorio garm2_temp existe, si no, crearlo
+        if [ ! -d "garm2_temp" ]; then
+            mkdir -p garm2_temp
+        fi
+        if [ ! -s "garm2_temp/stopfile" ]; then
+            echo "Running {wildcards.prefix}.."
+            # lapso
+            #mummer_parallel.l nucmer {params.prefix} {input.genome1_ref} {input.genome2_que} {threads} -l 20 -b 600 -c 20 -g 100
+            # menos lapso
+            #mummer_parallel.l nucmer {params.prefix} {input.genome1_ref} {input.genome2_que} {threads} -l 50 -b 600 -c 40
+            # default
+            mummer_parallel.l nucmer {params.prefix} {input.genome1_ref} {input.genome2_que} {threads}
+
+# Parámetros Nucmer:
+# -c 20: Establece el tamaño mínimo del clúster a 20. Disminuir este valor puede detectar alineaciones más pequeñas.
+# -l 20: Establece el tamaño mínimo de la palabra para coincidencias exactas a 20. Disminuir este valor puede aumentar la sensibilidad.
+# -b 600: Establece la longitud mínima de una interrupción para dividir un contig a 600. Aumentar este valor puede evitar que pequeñas # interrupciones dividan alineaciones.
+# -g 100: Permite gaps de hasta 100 en las coincidencias extendidas.
+
+        else
+            touch {output}
+        fi
+        """
+
+# Regla para filtrar delta
+rule delta_filter:
+    input:
+        delta = "{prefix}.delta"
+    output:
+        delta_filter = temp("{prefix}.delta.filter")
+    shell:
+        """
+        if [ ! -s "garm2_temp/stopfile" ]; then
+            delta-filter -r -q {input.delta} > {output.delta_filter}
+        else
+            touch {output}
+        fi
+        """
+
+# Regla para mostrar coordenadas
+rule show_coords:
+    input:
+        delta_filter = "{prefix}.delta.filter"
+    output:
+        coords = temp("{prefix}.delta.filter.coords")
+    shell:
+        """
+        if [ ! -s "garm2_temp/stopfile" ]; then
+            show-coords -rclo {input.delta_filter} > {output.coords}
+        else
+            touch {output}
+        fi
+        """
+
+# Regla para convertir coordenadas
+rule coords_for_merge:
+    input:
+        coords = "{prefix}.delta.filter.coords"
+    output:
+        tbl = temp("coords_for_merge_{prefix}.tbl")
+    shell:
+        """
+        if [ ! -s "garm2_temp/stopfile" ]; then
+            coords_for_merge.pl {input.coords} > {output.tbl}
+            cp {output.tbl} garm2_temp/
+        else
+            touch {output}
+        fi
+        """
+
+# Regla para fusionar resultados
+rule merge:
+    input:
+        genome1_ref = lambda wildcards: config["G1"] if wildcards.prefix == get_prefix(0) else f"{get_prefix(int(wildcards.prefix.split('_iter')[-1])-1)}.garm_consensus.fasta",
+        genome2_que = lambda wildcards: config["G2"] if wildcards.prefix == get_prefix(0) else f"{get_prefix(int(wildcards.prefix.split('_iter')[-1])-1)}.singles.fasta",
+        rules = "coords_for_merge_{prefix}.tbl"
+    output:
+        garm_consensus = temp("{prefix}.garm_consensus.fasta"),
+        singles = temp("{prefix}.singles.fasta")
+    shell:
+        """
+        if [ ! -s "garm2_temp/stopfile" ]; then
+            garm2_consensus.pl {input.genome1_ref} {input.genome2_que} {input.rules} {output.garm_consensus} {output.singles}
+            if [ ! -s {output.garm_consensus} ]; then
+                echo "{wildcards.prefix}" > garm2_temp/last_successful_iteration.txt
+                cp {output.singles} "garm_consensus.fasta"
+                rm -f "garm_singles.fasta"
+                echo "done.." > garm2_temp/stopfile
+            else
+                cp {output.garm_consensus} "garm_consensus.fasta"
+                cp {output.singles} "garm_singles.fasta"
+            fi
+        else
+            touch {output[0]}
+            touch {output[1]}
+        fi
+        """
+
+# Rule to mark completion
+rule mark_completion:
+    input:
+        expand("{prefix}.garm_consensus.fasta", prefix=[get_prefix(i) for i in range(iterations)])
+    output:
+        "garm2_temp/final_output.done"
+    params:
+        consensus = "{prefix}.garm_consensus.fasta".format(prefix=get_prefix(int(config["iterations"]))),
+        singles = "{prefix}.singles.fasta".format(prefix=get_prefix(int(config["iterations"])))
+    run:
+        # Verificar la existencia del archivo garm2_temp/stopfile
+        if os.path.exists("garm2_temp/stopfile"):
+            with open("garm2_temp/last_successful_iteration.txt", 'r') as f:
+                last_successful_iteration = f.read().strip()
+            print(f"Done.. Merging of both assemblies completed at iteration {last_successful_iteration}")
+        else:
+            print("Done.. Merging of both assemblies completed")
+        nucmer_error = 'nucmer.error'
+        garm2_temp = 'garm2_temp/'
+        if os.path.exists(nucmer_error):
+#            shutil.move(nucmer_error, garm2_temp) # only for debug
+            os.remove(nucmer_error)
+        # Marcar la finalización
+        with open(output[0], 'w') as f:
+            f.write("Merging process completed")

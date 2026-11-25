@@ -1,0 +1,79 @@
+Run ID: tree
+Genomes produced: 9
+Alignment mode: protein
+Filtered by: 50%
+
+Genomes included in the analysis
+uid	label	acc	taxon_name	strain_name	type	taxonomy	UUCG
+7371513820239091743	GCA_000002715.1_ASM271v1_genomic	GCA_000002715.1_ASM271v1_genomic	none	none	false	none	66
+3755928742274898749	GCA_022813745.1_ASM2281374v1_genomic	GCA_022813745.1_ASM2281374v1_genomic	none	none	false	none	63
+2164693069068562401	GCA_012922715.1_ASM1292271v1_genomic	GCA_012922715.1_ASM1292271v1_genomic	none	none	false	none	61
+2012805759998572457	GCA_013423385.1_N_liquefaciens_N6_1.0_genomic	GCA_013423385.1_N_liquefaciens_N6_1.0_genomic	none	none	false	none	61
+7978327252450708856	GCA_037832395.1_ASM3783239v1_genomic	GCA_037832395.1_ASM3783239v1_genomic	none	none	false	none	61
+1630273421121305768	GCA_015708705.1_Nagvi1_genomic	GCA_015708705.1_Nagvi1_genomic	none	none	false	none	58
+140783506800618834	Naganishia_sp_asm.scaffolds	Naganishia_sp_asm.scaffolds	none	none	false	none	62
+3642248299517627764	GCA_001599735.1_JCM_2334_assembly_v001_genomic	GCA_001599735.1_JCM_2334_assembly_v001_genomic	none	none	false	none	55
+8386753184065842449	GCA_012922685.1_ASM1292268v1_genomic	GCA_012922685.1_ASM1292268v1_genomic	none	none	false	none	60
+//
+
+Length of the concatenated alignment: 43635
+
+Length of gene alignments
+POL2: 2228
+SEC21: 1131
+SEC26: 973
+MCM7: 844
+HEM12: 413
+DIP2: 1090
+SDA1: 886
+NDI1: 899
+NCS6: 348
+HIS4: 966
+HIS7: 889
+TRM1: 700
+FRS1: 697
+MSS51: 1145
+VMA1: 653
+DYS1: 363
+RPP0: 311
+TIM44: 449
+TOP1: 998
+PAH1: 1291
+BRE2: 1110
+FAP7: 314
+TIF5: 449
+UTP21: 982
+TRP3: 930
+RPN1: 997
+ATP6: 253
+MRPL19: 162
+RPB2: 1350
+CMD1: 155
+RPF2: 363
+BMS1: 1190
+TUB2: 446
+TUB1: 511
+PGK1: 418
+MIP1: 1507
+KRE33: 1070
+DPH5: 321
+COX2: 207
+COX1: 328
+CCT8: 572
+ILV1: 880
+MET6: 765
+ACT1: 388
+NOP14: 993
+RLI1: 641
+SPB1: 985
+ELP3: 570
+NOG1: 710
+MVD1: 492
+MSF1: 520
+RPO21: 1904
+TSR1: 861
+ESF1: 924
+PRT1: 777
+RAD2: 1423
+TEF1: 461
+ZPR1: 519

@@ -1,0 +1,19 @@
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: basidiomycota_odb10 (Creation date: 2024-01-08, number of genomes: 133, number of BUSCOs: 1764)
+# Summarized benchmarking in BUSCO notation for file /busco_wd/prot/ng1_final_proteins.faa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:93.4%[S:93.2%,D:0.2%],F:1.9%,M:4.8%,n:1764	   
+	1647	Complete BUSCOs (C)			   
+	1644	Complete and single-copy BUSCOs (S)	   
+	3	Complete and duplicated BUSCOs (D)	   
+	33	Fragmented BUSCOs (F)			   
+	84	Missing BUSCOs (M)			   
+	1764	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0

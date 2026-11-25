@@ -1,0 +1,213 @@
+# STOCKHOLM 1.0
+#=GF AU Infernal 1.1.5
+
+Ecoli_16S_rrsB               .......AAAUUGAAGAGUUUGAUCAUGGCUCAGAUUGAACGCUGGCGGCAGG.CCUAACACAUGCAAGUCGAACGGUAacagGAAGAAGCU.UG.........................CUCUU--ugcuGACGAGUGGCGGACGGGUGAGUAAU.GUCUGGGA-AACU...GCCUGAUGGAGGGGGAUAACUACUGGA
+#=GR Ecoli_16S_rrsB       PP .......**********************************************.************************87654344444455.55.........................44333..35789************************.*******9.9***...***************************
+Human_cyto_18S               .......-----UACCUGGUUGAUCCUGCCAGUAGCA-UAUGCUUGUCUCAAAgAUUAAGCCAUGCAUGUCUGAGUACG....CACGGCC--.--.........................GGUACAG....UGAAACU-GCGAAUGGCUCAUUAAA.UCAGUUAUGGU--...---------------------------
+#=GR Human_cyto_18S       PP ............999*******************998.9*********99988357899***********877666554....4433333..............................3333334....4445666.6****************.*9986555444................................
+Human_mito_12S               .......-----AAUAGGUUUGGUCCUAGCCUUUCUA-UUAGCUCUUAGUAAG.AU-UACACAUGCAA-----------....---------.--gcauccccguuccagugaguucacc-------....-------------------------.-------------...---------------------------
+#=GR Human_mito_12S       PP ............999*******************999.7899***********.95.68*********...........................6777777777777777777777888................................................................................
+Scer_mito_15S                guaaaaaUUUUAUAAGAAUAUGAUGUUGGUUCAGAUUAAGCGCUAAAUAAGGA.CAUGACACAUGCGAAUCAUACGUUU....-AUUAUUGAuAA.........................GAUAAUA....AAUAUGUGGUGUAAACGUGAGUAAUuUUAUUAGGAAUUAaugAACUAUAGAAUAAGCUAA---------
+#=GR Scer_mito_15S        PP 98776655677889***************************************.*********************9885.....44444433144.........................4444444....45569*****************996379*********97333579999999988775444.........
+Cneoformans_mito_rns         .......AAUAGUAAGUGUUUAAUCAUGACACCACCGGAUGGGUAUCUAAGUAuUUUAACACAUGCAAGUCAGA-----....---------.--a.......................a-------....------UGGCGAACUGGUCAGUAAC.AGGUGAGU-UGAU...ACCGUUU--------------------
+#=GR Cneoformans_mito_rns PP .......**********************************************557899************764.....................7.......................7.................5******************.********.8***...*****97....................
+Ng1_rns                      .......UUCAGAAAGCAUUUGAUUAUGGUGCAUACUGAUUGCUAUCUAGGGG.AUUAACACAUGCUAGUUUAAUGGUC....-----U-AA.UA.........................----G--....-AU-CAUAGCGUACCGGCCAGGAAA.UACUGAGAAUGAU...ACCUUUAAAACCG--------------
+#=GR Ng1_rns              PP .......**********************************************.********************99443.........1.22.22.............................1.......33.99******************9.99999999999**...**********876..............
+#=GC SS_cons                 .......::::::::<<<<<_______>>>>>,{{{{-{{{{{{,{{{{{{{{.{----{{{-{{{,,<<<--<<<<<-....<<<<<<<__.__~~~~~~~~~~~~~~~~~~~~~~~~~>>>>>>>....->>->>>>>>,,,,,,[[[,,,,,,.((((((((--((-...--(((((((,<<<<----<<<<<<<__
+#=GC RF                      .......uuuauggAGaGuuUGAUCcUggCuCAGggcGaaCGCuGGCGGcgcG.cuUaAcaCAuGCAAGuCGAgcccca....cggggccuu.aa~~~~~~~~~~~~~~~~~~~~~~~~~ggccccg....agguggcGgCGaAcGGGuGAGUAAc.gCGcgggcAAccU...acCcccgggugcgggAUAccccccgGA
+
+Ecoli_16S_rrsB               AA.....................................................................................CGGUAGCUAAUACCGCAUAAC..-------GUC.GCAA..........................................................................G
+#=GR Ecoli_16S_rrsB       PP **.....................................................................................*********************.........9**.****..........................................................................*
+Human_cyto_18S               --uccuuuggucgcucgcuccucuccuacuuggauaacugugguaauucuagagcuaauacaugccgacgggcgcugacccccuucg---------------------..----------.----cgggggggaugcgugcauuuaucagaucaaaaccaacccggucagccccucuccggccccggccggggggcggg-
+#=GR Human_cyto_18S       PP ..4455555667778889999999999999999999999999999999999999999999***************************......................................***************************************999999999999999999999999999999999**.
+Human_mito_12S               --.....................................................................................---------------------..----------.----..........................................................................-
+#=GR Human_mito_12S       PP ........................................................................................................................................................................................................
+Scer_mito_15S                --.....................................................................................---------AUACUUAAUAUAuuAUUAUAUAAAaAUAA..........................................................................U
+#=GR Scer_mito_15S        PP ................................................................................................46677776655410444444422223444..........................................................................4
+Cneoformans_mito_rns         --.....................................................................................---------------------..----------.----..........................................................................-
+#=GR Cneoformans_mito_rns PP ........................................................................................................................................................................................................
+Ng1_rns                      --.....................................................................................-------------CAGAAAUA..----------.GCGU..........................................................................-
+#=GR Ng1_rns              PP ....................................................................................................34565555.............3444...........................................................................
+#=GC SS_cons                 __~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>>>>>>>----->>>>,,,,,..<<<<<<<<<<.____~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>
+#=GC RF                      AA~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~cggggggUAAUAccgcAUaau..gccccgggcc.guau~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~g
+
+Ecoli_16S_rrsB               AC-------CAAAGAGgggga..ccuucgGGCCU.........................................................................CUUGCCAUCGGAUGUGCCCAGAU.GGGAUUAGCUA..GUAGGUGGGGUAACGG...........CUCACCUAGGCGACGAUCCCU.AGCUG.G
+#=GR Ecoli_16S_rrsB       PP *9.......****9999****..99877655555.........................................................................***********************.***********..****************...........*********************.*****.*
+Human_cyto_18S               ----------------.............-----cgccggcggcuuuggugacucuagauaaccucgggccgaucgcacgccccccguggcggcgacgacccauucg--------------AACGUCUGC.CCUAUCAACUUucGAUGGUAGUCGCCGUG...........CCUACCAUGGUGACCACGGGUgACGGG.G
+#=GR Human_cyto_18S       PP ..................................*****99999999999999999999999999999999999999999999999999999888877766555554..............45556899*.*********95559*******98888889...........9*******************978****.*
+Human_mito_12S               ----------------.............-----cucuaaaucacc................................................acgaucaaaagga-----------------------.-----------..----------------acaagcauca.---------------------.-----.-
+#=GR Human_mito_12S       PP ..................................888888888888................................................8777777777778.....................................................8999999***..............................
+Scer_mito_15S                UUAUAUAAUAAAAAGGauauauauauaauAUAUA.........................................................................UUUAUCUAUAGUCAAGCCAAUAA.UGGUUUAGGUA..GUAGGUUUAUUAAGAG..........uUAAACCUAGCCAACGAUCCAU.AAUCGaU
+#=GR Scer_mito_15S        PP 4444444443333333568888888776545555.........................................................................999999999999999999*****.***********..************9877..........589*******************.*******
+Cneoformans_mito_rns         ----------------.............-----u......................................................................uu------AAACGAUUCACUUGCCU.CUCAGCAGGUA..GUUGGUAGGAUAAUAG...........CUUACCAAGCCAAUGACGAGU.AGGGA.G
+#=GR Cneoformans_mito_rns PP ..................................8......................................................................*8......79***************.***********..****************...........*********************.*****.*
+Ng1_rns                      ---------AUAAGGAc...........aAAUAG.........................................................................UCCGUUUAGAGAUUUGCUUAGUAgCUCAAUAGGUA..GUUGGUGGGGUAAA-G...........CCUAACAAGCCAAUGAUGAGU.AGUAUaG
+#=GR Ng1_rns              PP .........66667666...........444555.........................................................................788***********9999999977***********..***********987.5...........*********************.*****88
+#=GC SS_cons                 >>>>>>>>>,,,,<<<............._____~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>>>,)))))))--)))))))))).<<<--<-<<<-..-<<<<<<<<_______~~~~~~~~~~.>>>>>>>>>>>----->>>>,.,<<<<.<
+#=GC RF                      gcccggggcuAAAGgc.............auuua~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~gcCGcccgggGAugggcccgCGc.cccAUcAGcua..GuuGGuggGGUAAuGG~~~~~~~~~~.CccaCCaaggCgAuGAggggU.AGccG.g
+
+Ecoli_16S_rrsB               UCUGAGA..........GGAUGACCAGCCACACUGGAACUGAGACACG..................GUCCAGACUCCU.A..CG.........................GGAGGCAGCAGUGGGGAAUAUUGCACAAUGGGCGCAA.............GCCUGAUGCAGCCAUGCCGCGUGUAUGAAGAAGGCCUUCG.
+#=GR Ecoli_16S_rrsB       PP *******..........*******************************..................************.*..**.........................*************************************.............****************************************.
+Human_cyto_18S               AAUCAGG..........GUUCGAUUCCGGAGAGGGAGCCUGAGAAACG..................GCUACCACAUCC.A..AG.........................GAAGGCAGCAGGCGCGCAAAUUACCCACUCCCGAC-C.............CGGGGAGGUAGU-----GACGAAAAAUAACAA--------u
+#=GR Human_cyto_18S       PP *******..........*******************************..................************.*..**.........................********************************955.5.............**********84.....468777766666655........3
+Human_mito_12S               -------agcacgcagc-------------------------------aaugcagcucaaaacgcu------------.-..--uagccuagccacacccccacgggaa----ACAGCAGUGAUUAACCUUUAGCAAUAAACGAAA.............GUUUAACUAAGCUAUACUAACC------------------.
+#=GR Human_mito_12S       PP .......**********...............................**99*****999999998..................8888888888877777777777777....689******************************.............********************99...................
+Scer_mito_15S                AAUGAAA..........GUUAGAACGAUCACGUUGACUCUGAAAUAU-..................AGUCAAUAUCU-.A..UA.........................AGAUACAGCAGUGAGGAAUAUUGGACAAUGAUCGAAA.............GAUUGAUCCAGUUACUUAUUAG----GAUGAUAUAUAA--a
+#=GR Scer_mito_15S        PP *******..........****************************98...................9*********8..7..88.........................*************************************.............****************999976....777777766654..5
+Cneoformans_mito_rns         AGUGAAA..........GCUUGAUUCCCGACACUGGAAAUGAAAAA--..................GUCCAGAGCAUAgA..UU.........................AUGUGCAGCAGUGGAGAAUAUUGGUCAAUGCACGAAA.............GUGUGAACCAGUAACUUAGAGUUAAAAGUCAUUUUCUGAU.
+#=GR Cneoformans_mito_rns PP *******..........***********************998876....................**********9537..88.........................*************************************.............*********************9888866666655554444.
+Ng1_rns                      GAUGAAA..........GUCUUAAAUACGGCAAUGGAAAUGAAAAA--..................GUCCAAAGUAAC.AuuUG.........................UUGCGCAGCAGUGAUGAAUCGUUGUCAAUUCGCAU--aguagaaauacccGCGAGAACACGCCACCUAGAUU--CCAAGUCCCCCCCAUG.
+#=GR Ng1_rns              PP 9******..........***********************998876....................**********96.52269.........................9********************************65..6999999999999********************77..5555555555555555.
+#=GC SS_cons                 <<<____~~~~~~~~~~>>>>--->>>>]]],<<<<<<__________~~~~~~~~~~~~~~~~~~>>>>>>,<<<<_._..__~~~~~~~~~~~~~~~~~~~~~~~~~>>>>,,,}}}}}}-},,,,,<-<<<---<<<<<____~~~~~~~~~~~~~>>>>>->>>>,}}-}}}}}},,<<<<------<<<<____~
+#=GC RF                      ccuGAGA~~~~~~~~~~gggcGauCggCCaCAcuGGgaCUGAGAcACG~~~~~~~~~~~~~~~~~~gcCCagACuCCU.A..CG~~~~~~~~~~~~~~~~~~~~~~~~~GGaGGCAGCaGugggGAAUauUgcgCAAugGgcGaAA~~~~~~~~~~~~~gcCugAcgcaGCgAcgCCGCGUGgggGAuGAAggccUUcG~
+
+Ecoli_16S_rrsB               .................................................................GGUUGUAAAGUAC....UUU.CAGCGGGGAGGAAG-GGAGUAAaguuaauaCCUUUG..............................................................................
+#=GR Ecoli_16S_rrsB       PP .................................................................*************....***.***********998.788887779998875444555..............................................................................
+Human_cyto_18S               acag........................................................gacuc---------UUUC....GAG.GCCCUGUAAU-----UGGAAUGagu.ccacUUUAAA..............................................................................
+#=GR Human_cyto_18S       PP 3333........................................................33332.........4444....445.5555544433.....2222222233.3332222222..............................................................................
+Human_mito_12S               .................................................................-------------....---.----------------------........------..............................................................................
+#=GR Human_mito_12S       PP ........................................................................................................................................................................................................
+Scer_mito_15S                aauauuuuauuuuauuuauaaauauuaaauauuuauaauaauaauaauaauaauauauauauaua-------------....---.----------------------........------aauugauuaaaaauaaaauccauaaauaauuaaaauaaugauauuaauuaccauauauauuuuuauauggauauauau
+#=GR Scer_mito_15S        PP 566666666666666666666666666666666666677778889999999**************.........................................................******************************************************999988877765555555444444
+Cneoformans_mito_rns         .................................................................AUCAGAAGAUUUA....CUUuUGAAUAAGUAUAAUAA------........----A-..............................................................................
+#=GR Cneoformans_mito_rns PP .................................................................5555667778887....65515666666666555544..................2...............................................................................
+Ng1_rns                      .................................................................GGGGGAAGGGGAGuaaaUUU.CACUUG-GAU-AAAGAAUCUUG........AAUAAU..............................................................................
+#=GR Ng1_rns              PP .................................................................55555555555441111444.433333.333.44446677776........666666..............................................................................
+#=GC SS_cons                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>>>>----->>>>....,,,.<<<<<<<---<-----<<<___........______~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+#=GC RF                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ggccGUAAAcccC....UuU.ccccgGgGAagAaaaaccgaua........uauuau~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Ecoli_16S_rrsB               ........................CUCAUUGA.CGUUACCCGCA.GAAGAAGCACCGGCUAA.C.UCCGUGCCAGCAGCCGCGGUAAUACGGAGG.GUGCAAGCGUUAAUCGGAAUUACUGGGCGUAAAGCGCACGCA.GGCGGUUUGUUAAGUCAGAUGUGAAAUCCCCGGGCUCAA......................
+#=GR Ecoli_16S_rrsB       PP ........................8889****.***********.*****************.*.******************************.******************************************.***************************************......................
+Human_cyto_18S               ........................UC------.CUUUAACGAG-.GAUCCAUUGGAGGGCAA.GuCUGGUGCCAGCAGCCGCGGUAAUUCCAGCU.CCAAUAGCGUAUAUUAAAGUUGCUGCAGUUAAAAAGCUCGUA.GUUGGAUCUUGG---------------------------gagcgggcgggcgguccgccgc
+#=GR Human_cyto_18S       PP ........................33.......3444444433..46689999999877777.648*****************************.******************************************.****88777764...........................4999******************
+Human_mito_12S               .......................c--------.-----------.----CAGGGUUGGUCAA.U.UUCGUGCCAGCCACCGCGGUCACACGAUUA.ACCCAAGUCAAUAGAAGCC------GGCGUAAAGAGUGUUUU.---------------------------------------agaucacccccuccccaauaa.
+#=GR Human_mito_12S       PP .......................*.........................*************.*.******************************.***********99998864......**************875........................................4567********999999888.
+Scer_mito_15S                auuaauaauaauauuaauuuuauu---AUUAU.UAAUAAUAUAUuUUAAUAGUCCUGACUAA.UaUUUGUGCCAGCAGUCGCGGUAACACAAAGA.GGGCGAGCGUUAAUCAUAAU-----GGUUUAAAGGAUCCGUAgAAUGAAUUAUAUA--------------------------......................
+#=GR Scer_mito_15S        PP 444444444444444444444432...33333.333333333331445689**********9.65******************************.***************99988.....****************95579******9876................................................
+Cneoformans_mito_rns         ........................-----UGAuGAUUAUUAUAC.CGAAUAGUCCAGUCUAA.UcUCCGUGCCAGCAGUCGCGGUAAUACGGAAUcGGGCAACCCAUCGGAGUUUUGAAUAGGUGUACAGGGUACGUA.GCUUGAUCA------------------------------uau...................
+#=GR Cneoformans_mito_rns PP .............................222134466666667.77799************.87****************************755******************************************.*******97..............................799...................
+Ng1_rns                      ........................GAUCCUGA.UUCUA------.---GUAGUAGAUCUAAAuU.GCCGUGCCAGCAAGAGCGGUAAGACGGCUU.CUACAAGCAAUAGUAACAAUAAAUUGGUGUAAAGGGUACGCA.GCCGGCCUA------------------------------u.....................
+#=GR Ng1_rns              PP ........................77767666.66666..........899****987776668.******************************.******************************************.*******97..............................8.....................
+#=GC SS_cons                 ~~~~~~~~~~~~~~~~~~~~~~~~>>>-----.>---->>>>>>.--->,,<<<<<------.<.<<<<-----<<____>>------->>>>>>.>>>>,}}}}}}}}}},,,,,,,,,,{{{-----{,[[[[-[-.[[[,<<<<<<<-<<<<<<<<<<<----<<<<<<<_____~~~~~~~~~~~~~~~~~~~~~~
+#=GC RF                      ~~~~~~~~~~~~~~~~~~~~~~~~cgguuUGA.cgGUAcCcggg.gAagAAGcccCGGCUAA.c.uccGUGCCAGCAGCCGCGGUAAuACggagG.gggCaaGCGuugccCGGAaUuAuUGGGcGUAAAGgGcgcGcA.gGcGGcccggcAaGucgggcgcgAAAucccgcgGCUcAA~~~~~~~~~~~~~~~~~~~~~~
+
+Ecoli_16S_rrsB               ......................................................................................................................................................................................................CC
+#=GR Ecoli_16S_rrsB       PP ......................................................................................................................................................................................................**
+Human_cyto_18S               gaggcgagccaccgcccguccccgccccuugccucucggcgcccccucgaugcucuuagcugagugucccgcggggcccgaagcguuuacuuugaaaaaauuagaguguucaaagcaggcccgagccgccuggauaccgcagcuaggaauaauggaauaggaccgcgguucuauuuuguugguuuucggaacugaggc--
+#=GR Human_cyto_18S       PP *************************************************************************************************************************************************************************************************99984..
+Human_mito_12S               .................................................................................................................................................................................agcuaaaacucaccugaguug--
+#=GR Human_mito_12S       PP .................................................................................................................................................................................888888888888888888888..
+Scer_mito_15S                ......................................................................................................................................................................................................--
+#=GR Scer_mito_15S        PP ........................................................................................................................................................................................................
+Cneoformans_mito_rns         ...................................................................................................................................................................................................uau--
+#=GR Cneoformans_mito_rns PP ...................................................................................................................................................................................................997..
+Ng1_rns                      ....................................................................................................................................................................................................uu--
+#=GR Ng1_rns              PP ....................................................................................................................................................................................................*8..
+#=GC SS_cons                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>>
+#=GC RF                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Cc
+
+Ecoli_16S_rrsB               UGGGAACUGCAUCUGAUACUGGCAAGCUUG.AGUCUCGUA.GAGGGGGGUAGAAUUCCAGGUGUAGCGGUGAAA..........................UG.CGUAGAGAUCUGGAGGAAUACCGGUGGCGAAG............................GCGGCCCCCUGGACGAAGACUGACGCUCAGGUGCGAA
+#=GR Ecoli_16S_rrsB       PP ******************************.*********.*********************************..........................**.********************************............................*************************************
+Human_cyto_18S               --------------------CAUGAUUAAGaGGGACGGCC.GGGGGCAUUCGUAUUGCGCCGCUAGAGGUGAAA..........................UU.CUUGGACCGGCGCAAGACGGACCAGAGCGAAA............................GCAUUUGCCAAGAAUGUUUUCAUUAAUCAAGAACGAA
+#=GR Human_cyto_18S       PP ....................67777777765999******.*********************************..........................**.********************************............................*************************************
+Human_mito_12S               ------------------------------.---------.---------------------------------uaaaaaacuccaguugacacaaaaua--.--------------------------------gacuacgaaaguggcuuuaacauaucug---------------------------AACACACAAU
+#=GR Human_mito_12S       PP ..........................................................................88888888888888888888888888...................................8888888888888888888888876544...........................566*******
+Scer_mito_15S                -------------------UUAUAAUUUAG.AGUUAAUAAaUAUAAUUAAAGAAUUAUAAUAGUAAAGAUGAAA..........................UAaUAAUAAUAAUUAUAAGACUAAUAUAUGUGAAA............................AUAUUAAUUAAAUAUUA-ACUGACAUUGAGGGAUUAA
+#=GR Scer_mito_15S        PP ...................699********.***999987469*******************************..........................963666778899***********************............................***********999998.*******************
+Cneoformans_mito_rns         ----------------------UGAUCUAG.AGUCAUAUA.GGGGUAGAACCAACACUUGGAGGAGGGCUAAUA..........................UU.CUUUGAUACCAAGGGGUGUACUAAAGGCGUAA............................GCAUUCUACUAAGUAUUGACUGACUGUAAGGUACGAA
+#=GR Cneoformans_mito_rns PP ......................79******.*********.*********************************..........................**.********************************............................*************************************
+Ng1_rns                      ----------------------UAGGCUAG.AGUUGGAAA.GAGGUAAGUACAAUACUUAGAGGAGGGCUGAUA..........................UC.UCAUUAUCCUAAGGGGAGUGCUAAAGGCGAAG............................GCCACUUACUAUUAACA-ACUGACGGUAAGGUACGAA
+#=GR Ng1_rns              PP ......................79******.*********.*********************************..........................**.********************************............................****************9.*******************
+#=GC SS_cons                 >>>>>-->>>>>>>>>-->>>>>>>>>,,,.(((((((((.--(((((((<<--<<<<<<<<---<<<______~~~~~~~~~~~~~~~~~~~~~~~~~~>>.>------>>>>>>>>-->>,,,,<--<<____~~~~~~~~~~~~~~~~~~~~~~~~~~~~>>>)))))))-))))))-))),,,]]]]--]]]],,,
+#=GC RF                      gcgggaucgcgcccgaaACugccgggCUuG.aGuccggcc.GagGggggcggAAcucccgguGuAGcgGUGAAA~~~~~~~~~~~~~~~~~~~~~~~~~~ug.CGUAGAuaucgggagGAacaCCacugGCGAAG~~~~~~~~~~~~~~~~~~~~~~~~~~~~GCggccccCuGggccgguaCuGACgCugAggcgCGAA
+
+Ecoli_16S_rrsB               AGCGUGGGGAGCAAACAGGAUUAGAUACCCUGGUAGUCCACGCCGUAAACGAUGUCGACUUGGAGGUUGU.GCCCUUGA........................................GGCGUGGCUUCCGGAGCUAAC..GCGUUAAGUCGACCGCCUGGGGAGUACGGCCGCAAGGUUAAAACUCAAAUGAAUUGAC
+#=GR Ecoli_16S_rrsB       PP **********************************************************************.********........................................*********************..**********************************************************
+Human_cyto_18S               AGUCGGAGGUUCGAAGACGAUCAGAUACCGUCGUAGUUCCGACCAUAAACGAUGCC---GACCGG-----.--------cgaugcggcggcguuauucccaugacccgccgggcagcuu--------CCGGGAAACCAAA..GUCUUUG---GGUUCCGGGGGGAGUAUGGUUGCAAAGCUGAAACUUAAAGGAAUUGAC
+#=GR Human_cyto_18S       PP *****************************************************976...668876..............677888889999999***********99999998888776........6788999999999..9999877...679*********************************************
+Human_mito_12S               AGCUAAGACCCAAACUGGGAUUAGAUACCCCACUAUGCUUAGCCCUAAACCUCAACAGUUA---------.--------aa...................................uca---------------------ac----AAAACUGCUCGCCAGAACACUACGAGCCACAGCUUAAAACUCAAAGGACCUGGC
+#=GR Human_mito_12S       PP *************************************************************..................**...................................***.....................86....589***************************************************
+Scer_mito_15S                AACUAGAGUAGCGAAACGGAUUCGAUACCCGUGUAGUUCUAGUAGUAAACUAUGAAUACAAUUAUUUAUAaUAUAUAUU........................................AUAUAUAAAUAAUAAAUGAAA..AUG-AAAGUAUUCCACCUGAAGAGUACGUUAGCAAUAAUGAAACUCAAAACAAUAGAC
+#=GR Scer_mito_15S        PP *********************************************************************7366666666........................................7779*****************..*96.699***************************************************
+Cneoformans_mito_rns         AGCAAGAGCAUGGAACCGGAUUCGAUACCCGGAUACUUCUUGCCGUAAACGAUGCAGACUAUGAGAUCAG.UGGAUUAA........................................CUAUUGGUUUUCGUUGCUAAC..GC-UAAAGUCUGCCACCUGCAUAGUACAGUCGAAAGACCGAAACGUCAAUGAUUAGAC
+#=GR Cneoformans_mito_rns PP **********************************************************************.********........................................*********************..**.789****************************************************
+Ng1_rns                      GGUUGGGGGAUAGAUACAGAUUAGAUACCUGAGUAUUCCCAACAGUAAACGAUGUAGAUUAGGAAUUGGU.----AAAA........................................---UCCAGUUUCAUAGCAAAC..GCUUUAAAUCUACCACCUGUAGAGUAUAGUCGCAAGGCUGAAAUACAAAUAAUUAGAC
+#=GR Ng1_rns              PP ********************************************************************95.....4555...........................................79****************..**********************************************************
+#=GC SS_cons                 ,<<<<<<---<<---<<<<_________>>>>--->>>>>>>>,,,,,,,,,,((((((,,<<<<<<<<<.<<<_____~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>>>>>>>>>>>>,,,<<____~~>>,,,,,))))))}}}},<<<------<<<<____>>>>---->>>,,,,,,,,{{{{
+#=GC RF                      AGCguGGGgAgCaAAcgGGAUUAGAUACCCcgGUAGuCCacGCcgUAAACGAUGggcgCUaGgcgccggg.gggauuaa~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ccccccggcgcCgaAGcuAAc~~gCauUAAGcgccCCgCCUGgGGAgUACggcCGCAAGgcugAAACuCAAAGGAAUuGaC
+
+Ecoli_16S_rrsB               GGGGGCC.CG..CACAAGCGGUGGAGCAUGUGGUUUAAUUCGAUGCAACGCGAAGAACCUUACCUGGUCUUGACAUC.CACGGAAGUUUUCAGAGAUGAGAAUGUGCCUUCG...GGAACCGUGAGACAGGUGCUGCAUGGCUGUCGUCAGCUCGUGU.UG.UGAAAUGUUGGGUUAAGUCC.CG.CAACGAGCGCAACC
+#=GR Ecoli_16S_rrsB       PP *******.**..*****************************************************************.**********************************...*******************************************.**.********************.**.**************
+Human_cyto_18S               GGAAGGG.CA.cCACCAGGAGUGGAGCCUGCGGCUUAAUUUGACUCAACACGGGAAACCUCACCCGGCCCGGAC---.ACGGACAGGAUUGACAGAUUGAUAG-CUCUUUCU...CGAUUCCGU-GGGUGGUGGUGCAUGGCCGUUCUUAGUUGGUGG.AG.CGAUUUGUCUGGUUAAUUCC.GA.UAACGAACGAGACU
+#=GR Human_cyto_18S       PP *******.**.77***********************************************************99....9999999888888888888888765.68888888...899999999.567899***************************.**.********************.**.**************
+Human_mito_12S               GGUGCUU.CAuaUCCCUCUAGAGGAGCCUGUUCUGUA-AUCGAUAAACCCCGAUCAACCUCACCACCUCUUGCU---.----------------------------------..c-------------AGCCUAUAUACCGCCAUCUUCAGCAAACCC.UGaUGAAGGCUAC---A------.--.AAGUAAGCGCAAGU
+#=GR Human_mito_12S       PP *******.*9777999*****************9998.7*********************************99........................................*.............************************999988.8657787776632...2..........4455559**99987
+Scer_mito_15S                GGUUACA.GA..CUUAAGCAGUGGAGCAUGUUAUUUAAUUCGAUAAUCCACGACUAACCUUACCAUAUUUUGA-AUAuUAUAAUA--------AUUAUUAUA----------...AUUAUUAUAUUACAGGCGUUACAUUGUUGUCUUUAGUUCGUGC.UG.CAAAGUUUUAGAUUAAGUUC.AU.AAACGAACAAAACU
+#=GR Scer_mito_15S        PP *******.*9..************************************************************9.67744444444........333333333.............3333445556889******************************.**.********************.**.**************
+Cneoformans_mito_rns         CGUUCUU.AG.gCACAUGGAGUGAAGCAUGCCGUUUAAUCCGAUAGCCCGCGUAAAAUCUUACCACUUCUUG-CAUC.----------------------------------uua----------GACAGGUGUUGCAUGGCUGUCGUCAGUUAGUGUuCG.UGAGACCUAUGGUUGAUUCC.GUaUAACUAACGCAAUC
+#=GR Cneoformans_mito_rns PP *******.99.788899******************************************************9.5787...................................795..........788****************************9548*.********************.**779************
+Ng1_rns                      GGCCUGAgAG..CAAACGGAGUGAAGCAUGUUAUUUAAUACGAUGAUCCGCGUAGAAUCUUACCAGUCCUUGA-AUG.----------------------------------u.a---------UCACAGGUGUUGCAUGGUUGUCGUCAGUUCGUGC.UG.UUAAGCGUAUGGUUAACUCCgAU.AAACGAACGCAAUC
+#=GR Ng1_rns              PP ***9876256..9***********************************************************9.677...................................5.6.........5788******************************.**.********************567.89************
+#=GC SS_cons                 {-{{{{{.{{..-{{,,{{{{{{{{{{{{{{{{{,,,,<<<<________>>>>,,,,,,,,{{{{{{{,,,,,(((.(((((,,<<<<<<<____>>>>>>>,<<<<____~~~>>>>)))))-))),[[-[[[[--[[[[[[[[[,,,((((((<<.<_.___>>>,,<<<<______>>.>>.,,)))))),,,,,(
+#=GC RF                      gGgGgCC.CG..CaCAAGCGguGgaGcauGuGGuUUAAuuCGAuGcaAcgCGaaGAACCUUACCcgggcUUGAcgug.ccgggaaccccccgGAaAcgggggggccccuuaa~~~ggggcccggacacAGGUGcugCAuGgcuGuCGUCAGCuCGugu.CG.UGAGauGUcgGGUUAAGUCC.cg.cAaCGaGCGCAACC
+
+Ecoli_16S_rrsB               CUUAUCC.UUUGUUGCCAGCGG-UCCGG.........................................CCGGGAACUCAAAGGAGACUGCCAGUGAUAA....ACUGGAGGAAGGUGGGGAUGACGUCAAGUCAUC.AUGGCCCUU.ACGACCAGGGCUACACACGUGCUACAAUGGCGCAU.ACAAAGAG.....AAG
+#=GR Ecoli_16S_rrsB       PP *******.**************.88899.........................................*******************************....*********************************.*********.***********************************.********.....***
+Human_cyto_18S               CUGGCAUgCUAA----------------cuaguuacgcgacccccgagcggucggcgucccccaacuuc---------UUAGAGGGACAAGUGGCGUUCA....GCCACCCGA--GAUUGAGCAAUAACAGGUCUGUgAUGCCCUUAgAUGUCCGGGGCUGCACGCGCGCUACACUGACUGGC.UCAGCGUGugccuACC
+#=GR Human_cyto_18S       PP ***995535554................445788899*************************9988877.........4555679***************....********7..677899999**********98857*****985499*********************************.********77776688
+Human_mito_12S               AC-----.--------------------.........................................-------------------------------ccac--------------GUAAAGACGUUAGGUCAAG.GUGUAGCCC.AUGAGGUGG-CAAGAAAUGGGCUACAUUU------.--------.....---
+#=GR Human_mito_12S       PP 76..................................................................................................9**9..............677****************.*********.********9.779*************996.......................
+Scer_mito_15S                CCAUAUA.UAUAAUUUUAA----UUAUA.........................................---UAUAAUUUUAUAUUAUUUA-----UUAA....----UAUAAAGAAAGGAAUUAAGACAAAUCAUA.AUGAUCCUU.AUAAUAUGGGUAAUAGACGUGCUAUAAUAAAAUGA.UAAUAAAA.....UUA
+#=GR Scer_mito_15S        PP **98888.87665554433....33344............................................4455567777777776554.....3444........5667899999*******************.*********.****************************9988888.77777777.....776
+Cneoformans_mito_rns         CUCGCUA.UGAAUCU--------AUAUG.........................................--------UUUUAUAGU-CUAGAUUUUAUAA....GAAUCUAGUUUAGGAGGACUAUGACAAGUCUUC.AUGACCCUU.AUGGAGUGGGCUACACGCGUGCCACUAGAAUAUCG.ACAGUAUG.....AUG
+#=GR Cneoformans_mito_rns PP *******.****988........56666.................................................89*****96.*************....*********************************.*********.***********************************.********.....***
+Ng1_rns                      CUCACUA.UAGAUUA-------------.........................................------AUUUCUGUAGUAU-AACUUCGACAA....GAAGC------UCGAGGACUAUGACAAACCCUC.AUGGCCCUU.AUGGACUGGGCUAUAGACGUGCCACAAGAUCCUUCuACAAAAUG.....AUG
+#=GR Ng1_rns              PP *******.*999998............................................................347999****985.668899*****....98763......47********************.*********.*******************************98644********.....***
+#=GC SS_cons                 (((,<<<.<<<<---<<--<<<______~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>>>>>---->>>>>>>,,<<<<<<<<_____~~~~>>>>>>>>,,,,,)))),,,,]]]]-]]]---].]]]]]]],,.,,}}}}}}},,,}}-}}}}}}}}}},,,<<<<<<<.-----<<<.....--<
+#=GC RF                      Cccgccc.ccagUUgCcAucgguuaaug~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ccggGaACUcuggggggACcgCCggcGauAA~~~~gccGGagGAAGGuggGGAuGACGuCAaguCauC.auggCCCUU.AugcccgGGGCuaCACaCgugCuaCAAUGgccggc.ACAaaggG.....uaG
+
+Ecoli_16S_rrsB               CGACCUCGCGA...........................................GAGCAAGCGGAC.CUCAUAAAGUGCGUCGUAGUCCGGAUUGGAGUCUGCAACUCGACUCCAUGAAGUCGGAAUCGCUAGUAAU.CGUGGAUCAGAAUGCCACGGUGAAUACGUUCC.CGGGCCUUGUACACACCGCCCGUCACACC
+#=GR Ecoli_16S_rrsB       PP ***********...........................................************.**********************************************************************.********************************.*****************************
+Human_cyto_18S               CUACGCCGGCA...........................................GGCGCGGGUAACcCGUUGAACCCCAUUCGUGAUGGGGAUCGGGGAUUGCAAUUAUUCCCCAUGAACGAGGAAUUCCCAGUAAG.UGCGGGUCAUAAGCUUGCGUUGAUUAAGUCCC.UGCCCUUUGUACACACCGCCCGUCGCUAC
+#=GR Human_cyto_18S       PP 899********...........................................********99998999*******************************************************************.********************************.*****************************
+Human_mito_12S               -----------ucuac.................................cccag------------.--------------AAAACUACGAUAGCCCUUAUGAAACU-UAAGGGUCGAAGGUGGAUUUAGCAGUAAA.CUAAGAGUAGAGUGCUUAGUUGAACAGGGCCC.UGAAGCGCGUACACACCGCCCGUCACCCU
+#=GR Human_mito_12S       PP ...........56799.................................**975...........................4889999*****************99.8****************************.********************************.*****************************
+Scer_mito_15S                UAUAAA-----auauauuuaauuauauuuaauuaauaauauaaaacauuuuaau-UUUUAAUAUAU.UUUU-UUAUUAUAUAUUAAUAUGAAUUAUAAUCUGAAAUUCGAUUAUAUGAAAAAAGAAUUGCUAGUAAUaCGUAAAUUAGUAUGUUACGGUGAAUAUUCUA-.ACUGUUUCGCACUAAUCACUCAUCACGCG
+#=GR Scer_mito_15S        PP 666555.....4789**************************************6.55566666666.6665.5668888889*********************************************************************************996554..599**************************
+Cneoformans_mito_rns         CAAUUCUGAAA...........................................AGAGGAGCUAAC.CAUC-AACCGAUAUUAAUGUACGAAUUAAAGGCUGGAACUCGCCUUUAUGAAGUAGGAAUUCCGAGUAAU.CGCGCAUCAGCACGGCGCGGUGAAGUA-UACCuCUAAGCGGGUACUAAUUGCUCAUCACGGG
+#=GR Cneoformans_mito_rns PP ***********...........................................************.***9.99***************************************************************.**********************99655.5555699***************************
+Ng1_rns                      CUAAAGUGAAA...........................................GCAAUAGCCAAU.CAUC-AAAACAGGAUAAUGUACGAAUUGUAAGCUGGAACUCGCUUACAUGAAGUAGGAAUUCCGAGUAAU.CGUAUAUAAGAACGCUACGGUGAAUAUUAUCU.C-UUGGGUGUACUAACUGCUCGUCAUGGG
+#=GR Ng1_rns              PP ***********...........................................************.***9.555579***********************************************************.*************************9866666.5.5689***********************
+#=GC SS_cons                 <---<<<____~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>>>--->>----.>>>----->>>>>>>,,,,,,<---<<<<<<<<________>>>>>>>>--->,,,,,}}}}},,,,,<<.<<<<<<_______>>>>>>>>,,,,,,}}---.}}}}}}}}}}-}},,<-<<-<<---<<<<
+#=GC RF                      CaAagccGcGA~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ggcggAGCaAAU.CccaaAAAgccggcCucAGUUCGGAcuGgaGgCUGcAAcUCGcCucCagGAAGuuGGAauCGCUAGUAau.cGcggcUCAGcAugccgCgguGAAUACGuUCc.CGGGcCuuGuACaCACCGcCCGUCAcgcC
+
+Ecoli_16S_rrsB               AUGGGA.GUGGGUUGCAAAAGAAGUAGGU.AGCUUAACC..UUCG........................................................GGAGGGCGCUUACCACUUUGUGAUUCAUGACUGGGGUGAAGUCGUAACAAGGUAACCGUAGGGGAACCUGCGGUUGGAUCACCUCCUUA..........
+#=GR Ecoli_16S_rrsB       PP ******.**********************.*********..****........................................................*****************************************************************************************..........
+Human_cyto_18S               UACCGAuUGGAUGGUUUAGUGAGGCCC--.---------..----ucggaucggccccgccggggucggcccacggcccuggcggagcgcugagaagac..---------GGUCGAACUUGACUAUCUAGAGGAAGUAAAAGUCGUAACAAGGUUUCCGUAGGUGAACCUGCGGAAGGAUCAUUA-----..........
+#=GR Human_cyto_18S       PP ****9845789999*******999987..................6778888999************************************99888776...........799**********999*9********************************************************9...............
+Human_mito_12S               CCUCAA.GUAUACU----UCAAAG-----.---------..----gacauuuaa....................................cuaaaaccc..------------CUACG--CAUUUAUAU-AGAGGAGACAAGUCGUAACAUGGUAAGUGUACUGGAAAGUGCACUUGGACGAAC------..........
+#=GR Human_mito_12S       PP ******.7776643....233443.....................333333333....................................333333333..............33332..234456666.8*****************************************************................
+Scer_mito_15S                UUGAAA.CAUAUUAUUAUCUUAUUAUUUAuAUAA-----..----uauuuuuuaauaaauauu.................aauaauuauuaauuuauau..----UUAUUUAUAUCAGA-AAUAAUAUGAAUUAAUGCGAAGUUGAAAUACAGUUACCGUAGGGGAACCUGCGGUGGGCUUAUAAAUAUCuuaaauauuc
+#=GR Scer_mito_15S        PP ******.*********666655555444402222...........3345789***********.................**************85433......33333444555555.99*******************************************************98876654443333457889999
+Cneoformans_mito_rns         GGGAGA.GACACUACUCAUUGAAGAUGUU.UUGAAUUAUcuAAAA......................................................agAUAUUCAAGUUUCGAGAUGAAGAGCGUUGAUUUCUCUGAAGUUGAAACAUAGUAGCCGUAAGGGAACUUGCGGCUGAAUGAUAAAAUCU..........
+#=GR Cneoformans_mito_rns PP ******.**********************.888886666655555......................................................5666688889*********************************************************************************..........
+Ng1_rns                      CUGGGA.AGCAAAUGGAUAUGAAGAAGGA.GAGGGUAAU..UAAA........................................................C--UUUCUUGUUCGAGUAUUUAU-UGCUGACUGGUCUAAAGUCGAAACAAGGUAGCAGUAGGGGAACCUGUUGCUGAUCAAUAACUAAU..........
+#=GR Ng1_rns              PP ******.******************9999.766665544..4444........................................................3..333355689*********96.7****************************************************************..........
+#=GC SS_cons                 <<<<--.<<<<<<<<<<<<----<<<<<<.-<<<<--<<..____~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~..>>->>>>>>>>>>--->>>>>>>>>>>>-->>>>>>>>---->>-->>-->,<<<<<<<<<<____>>>>>>>>>>:::::::::::::..........
+#=GC RF                      acggaA.gccggccccgcCuGAAGccgcc.gcgccAAcc..uuaa~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~..ggaggcgggcggCuAaGgcggggccggcgAccggGgcgAAGUCGUAaCAAGGuagCcguaccGGAAggugcgGcugGAUcACCUCCUUu..........
+
+Ecoli_16S_rrsB               .....
+#=GR Ecoli_16S_rrsB       PP .....
+Human_cyto_18S               .....
+#=GR Human_cyto_18S       PP .....
+Human_mito_12S               .....
+#=GR Human_mito_12S       PP .....
+Scer_mito_15S                uuaca
+#=GR Scer_mito_15S        PP *****
+Cneoformans_mito_rns         .....
+#=GR Cneoformans_mito_rns PP .....
+Ng1_rns                      .....
+#=GR Ng1_rns              PP .....
+#=GC SS_cons                 .....
+#=GC RF                      .....
+//

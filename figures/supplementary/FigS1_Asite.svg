@@ -1,0 +1,1064 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="510.48pt" height="252pt" viewBox="0 0 510.48 252" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-10T12:00:30.070920</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.1, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 252 
+L 510.48 252 
+L 510.48 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 127.170778 197.19 
+L 135.501811 197.19 
+L 135.501811 30.87 
+L 127.170778 30.87 
+z
+" clip-path="url(#p1aec4452a7)" style="fill: #fdebd9"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 135.501811 197.19 
+L 143.832845 197.19 
+L 143.832845 30.87 
+L 135.501811 30.87 
+z
+" clip-path="url(#p1aec4452a7)" style="fill: #fdebd9"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 202.15008 197.19 
+L 210.481114 197.19 
+L 210.481114 30.87 
+L 202.15008 30.87 
+z
+" clip-path="url(#p1aec4452a7)" style="fill: #fdebd9"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 5.635699 197.19 
+L 260.467315 197.19 
+L 260.467315 165.69 
+L 5.635699 165.69 
+z
+" clip-path="url(#p1aec4452a7)" style="fill: #eef4fc"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 5.6px; font-family: 'Arial'; fill: #8a8984" transform="translate(99.461379 37.8) rotate(-90)">1404</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 5.6px; font-family: 'Arial'; fill: #8a8984" transform="translate(107.792412 37.8) rotate(-90)">1405</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 5.6px; font-family: 'Arial'; fill: #8a8984" transform="translate(116.123446 37.8) rotate(-90)">1406</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 5.6px; font-family: 'Arial'; fill: #8a8984" transform="translate(124.45448 37.8) rotate(-90)">1407</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 5.6px; font-family: 'Arial'; fill: #0b0b0b" transform="translate(132.785513 37.8) rotate(-90)">1408</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 5.6px; font-family: 'Arial'; fill: #0b0b0b" transform="translate(141.116547 37.8) rotate(-90)">1409</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 5.6px; font-family: 'Arial'; fill: #8a8984" transform="translate(149.44758 37.8) rotate(-90)">1410</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 5.6px; font-family: 'Arial'; fill: #8a8984" transform="translate(157.778614 37.8) rotate(-90)">1411</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 5.6px; font-family: 'Arial'; fill: #8a8984" transform="translate(166.109648 37.8) rotate(-90)">1412</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 5.6px; font-family: 'Arial'; fill: #8a8984" transform="translate(182.771715 37.8) rotate(-90)">1488</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 5.6px; font-family: 'Arial'; fill: #8a8984" transform="translate(191.102748 37.8) rotate(-90)">1489</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 5.6px; font-family: 'Arial'; fill: #8a8984" transform="translate(199.433782 37.8) rotate(-90)">1490</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 5.6px; font-family: 'Arial'; fill: #0b0b0b" transform="translate(207.764816 37.8) rotate(-90)">1491</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 5.6px; font-family: 'Arial'; fill: #8a8984" transform="translate(216.095849 37.8) rotate(-90)">1492</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 5.6px; font-family: 'Arial'; fill: #8a8984" transform="translate(224.426883 37.8) rotate(-90)">1493</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 5.6px; font-family: 'Arial'; fill: #8a8984" transform="translate(232.757916 37.8) rotate(-90)">1494</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 5.6px; font-family: 'Arial'; fill: #8a8984" transform="translate(241.08895 37.8) rotate(-90)">1495</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 5.6px; font-family: 'Arial'; fill: #8a8984" transform="translate(249.419984 37.8) rotate(-90)">1496</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 5.6px; font-family: 'Arial'; fill: #8a8984" transform="translate(257.751017 37.8) rotate(-90)">1497</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 6.2px; font-family: 'Arial'; text-anchor: middle; fill: #52514e" x="131.336294" y="13.86" transform="rotate(-0 131.336294 13.86)">5′ strand</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 6.2px; font-family: 'Arial'; text-anchor: middle; fill: #52514e" x="218.812147" y="13.86" transform="rotate(-0 218.812147 13.86)">3′ strand</text>
+   </g>
+   <g id="text_22">
+    <!-- $\it{E.~coli}$ 16S -->
+    <g style="fill: #0b0b0b" transform="translate(1.633536 54.130518)">
+     <text>
+      <tspan x="0" y="-0.203125" style="font-style: italic; font-size: 6.6px; font-family: 'Arial'; fill: #0b0b0b">E</tspan>
+      <tspan x="4.39798" y="-0.203125" style="font-style: italic; font-size: 6.6px; font-family: 'Arial'; fill: #0b0b0b">.</tspan>
+      <tspan x="9.159327" y="-0.203125" style="font-style: italic; font-size: 6.6px; font-family: 'Arial'; fill: #0b0b0b">c</tspan>
+      <tspan x="12.456202" y="-0.203125" style="font-style: italic; font-size: 6.6px; font-family: 'Arial'; fill: #0b0b0b">o</tspan>
+      <tspan x="16.123332" y="-0.203125" style="font-style: italic; font-size: 6.6px; font-family: 'Arial'; fill: #0b0b0b">l</tspan>
+      <tspan x="17.588252" y="-0.203125" style="font-style: italic; font-size: 6.6px; font-family: 'Arial'; fill: #0b0b0b">i</tspan>
+      <tspan x="19.053172" y="-0.203125" style="font-size: 6.6px; font-family: 'Arial'; fill: #0b0b0b"> </tspan>
+      <tspan x="20.885127" y="-0.203125" style="font-size: 6.6px; font-family: 'Arial'; fill: #0b0b0b">1</tspan>
+      <tspan x="24.552256" y="-0.203125" style="font-size: 6.6px; font-family: 'Arial'; fill: #0b0b0b">6</tspan>
+      <tspan x="28.219386" y="-0.203125" style="font-size: 6.6px; font-family: 'Arial'; fill: #0b0b0b">S</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 5.6px; font-family: 'Arial'; text-anchor: start; fill: #8a8984" x="1.633536" y="64.449219" transform="rotate(-0 1.633536 64.449219)">Bacteria</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="98.01216" y="57.310313" transform="rotate(-0 98.01216 57.310313)">C</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="106.343194" y="57.310313" transform="rotate(-0 106.343194 57.310313)">G</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="114.674227" y="57.310313" transform="rotate(-0 114.674227 57.310313)">U</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="123.005261" y="57.310313" transform="rotate(-0 123.005261 57.310313)">C</text>
+   </g>
+   <g id="text_28">
+    <text style="font-weight: 700; font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="131.336294" y="57.310313" transform="rotate(-0 131.336294 57.310313)">A</text>
+   </g>
+   <g id="text_29">
+    <text style="font-weight: 700; font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="139.667328" y="57.310313" transform="rotate(-0 139.667328 57.310313)">C</text>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="147.998362" y="57.310313" transform="rotate(-0 147.998362 57.310313)">A</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="156.329395" y="57.310313" transform="rotate(-0 156.329395 57.310313)">C</text>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="164.660429" y="57.310313" transform="rotate(-0 164.660429 57.310313)">C</text>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="181.322496" y="57.310313" transform="rotate(-0 181.322496 57.310313)">G</text>
+   </g>
+   <g id="text_34">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="189.65353" y="57.310313" transform="rotate(-0 189.65353 57.310313)">G</text>
+   </g>
+   <g id="text_35">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="197.984563" y="57.310313" transform="rotate(-0 197.984563 57.310313)">U</text>
+   </g>
+   <g id="text_36">
+    <text style="font-weight: 700; font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="206.315597" y="57.310313" transform="rotate(-0 206.315597 57.310313)">G</text>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="214.64663" y="57.310313" transform="rotate(-0 214.64663 57.310313)">A</text>
+   </g>
+   <g id="text_38">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="222.977664" y="57.310313" transform="rotate(-0 222.977664 57.310313)">A</text>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="231.308698" y="57.310313" transform="rotate(-0 231.308698 57.310313)">G</text>
+   </g>
+   <g id="text_40">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="239.639731" y="57.310313" transform="rotate(-0 239.639731 57.310313)">U</text>
+   </g>
+   <g id="text_41">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="247.970765" y="57.310313" transform="rotate(-0 247.970765 57.310313)">C</text>
+   </g>
+   <g id="text_42">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="256.301798" y="57.310313" transform="rotate(-0 256.301798 57.310313)">G</text>
+   </g>
+   <g id="text_43">
+    <text style="font-size: 6.4px; font-family: 'Arial'; text-anchor: start; fill: #0b0b0b" x="266.103014" y="57.09625" transform="rotate(-0 266.103014 57.09625)">A1408   C1409–G1491</text>
+   </g>
+   <g id="text_44">
+    <text style="font-size: 6.6px; font-family: 'Arial'; text-anchor: start; fill: #0b0b0b" x="1.633536" y="85.624008" transform="rotate(-0 1.633536 85.624008)">Human 18S</text>
+   </g>
+   <g id="text_45">
+    <text style="font-size: 5.6px; font-family: 'Arial'; text-anchor: start; fill: #8a8984" x="1.633536" y="95.949164" transform="rotate(-0 1.633536 95.949164)">Cytosol</text>
+   </g>
+   <g id="text_46">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="98.01216" y="88.810313" transform="rotate(-0 98.01216 88.810313)">C</text>
+   </g>
+   <g id="text_47">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="106.343194" y="88.810313" transform="rotate(-0 106.343194 88.810313)">G</text>
+   </g>
+   <g id="text_48">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="114.674227" y="88.810313" transform="rotate(-0 114.674227 88.810313)">U</text>
+   </g>
+   <g id="text_49">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="123.005261" y="88.810313" transform="rotate(-0 123.005261 88.810313)">C</text>
+   </g>
+   <g id="text_50">
+    <text style="font-weight: 700; font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #e34948" x="131.336294" y="88.810313" transform="rotate(-0 131.336294 88.810313)">G</text>
+   </g>
+   <g id="text_51">
+    <text style="font-weight: 700; font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="139.667328" y="88.810313" transform="rotate(-0 139.667328 88.810313)">C</text>
+   </g>
+   <g id="text_52">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #e34948" x="147.998362" y="88.810313" transform="rotate(-0 147.998362 88.810313)">U</text>
+   </g>
+   <g id="text_53">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #e34948" x="156.329395" y="88.810313" transform="rotate(-0 156.329395 88.810313)">A</text>
+   </g>
+   <g id="text_54">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="164.660429" y="88.810313" transform="rotate(-0 164.660429 88.810313)">C</text>
+   </g>
+   <g id="text_55">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="181.322496" y="88.810313" transform="rotate(-0 181.322496 88.810313)">G</text>
+   </g>
+   <g id="text_56">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #e34948" x="189.65353" y="88.810313" transform="rotate(-0 189.65353 88.810313)">U</text>
+   </g>
+   <g id="text_57">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #e34948" x="197.984563" y="88.810313" transform="rotate(-0 197.984563 88.810313)">A</text>
+   </g>
+   <g id="text_58">
+    <text style="font-weight: 700; font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #e34948" x="206.315597" y="88.810313" transform="rotate(-0 206.315597 88.810313)">A</text>
+   </g>
+   <g id="text_59">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="214.64663" y="88.810313" transform="rotate(-0 214.64663 88.810313)">A</text>
+   </g>
+   <g id="text_60">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="222.977664" y="88.810313" transform="rotate(-0 222.977664 88.810313)">A</text>
+   </g>
+   <g id="text_61">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="231.308698" y="88.810313" transform="rotate(-0 231.308698 88.810313)">G</text>
+   </g>
+   <g id="text_62">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="239.639731" y="88.810313" transform="rotate(-0 239.639731 88.810313)">U</text>
+   </g>
+   <g id="text_63">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="247.970765" y="88.810313" transform="rotate(-0 247.970765 88.810313)">C</text>
+   </g>
+   <g id="text_64">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="256.301798" y="88.810313" transform="rotate(-0 256.301798 88.810313)">G</text>
+   </g>
+   <g id="text_65">
+    <text style="font-size: 6.4px; font-family: 'Arial'; text-anchor: start; fill: #0b0b0b" x="266.103014" y="88.59625" transform="rotate(-0 266.103014 88.59625)">G1408   C1409·A1491</text>
+   </g>
+   <g id="text_66">
+    <!-- $\it{S.~cerevisiae}$ 15S -->
+    <g style="fill: #0b0b0b" transform="translate(1.633536 117.130518)">
+     <text>
+      <tspan x="0" y="-0.203125" style="font-style: italic; font-size: 6.6px; font-family: 'Arial'; fill: #0b0b0b">S</tspan>
+      <tspan x="4.39798" y="-0.203125" style="font-style: italic; font-size: 6.6px; font-family: 'Arial'; fill: #0b0b0b">.</tspan>
+      <tspan x="9.159327" y="-0.203125" style="font-style: italic; font-size: 6.6px; font-family: 'Arial'; fill: #0b0b0b">c</tspan>
+      <tspan x="12.456202" y="-0.203125" style="font-style: italic; font-size: 6.6px; font-family: 'Arial'; fill: #0b0b0b">e</tspan>
+      <tspan x="16.123332" y="-0.203125" style="font-style: italic; font-size: 6.6px; font-family: 'Arial'; fill: #0b0b0b">r</tspan>
+      <tspan x="18.319102" y="-0.203125" style="font-style: italic; font-size: 6.6px; font-family: 'Arial'; fill: #0b0b0b">e</tspan>
+      <tspan x="21.986231" y="-0.203125" style="font-style: italic; font-size: 6.6px; font-family: 'Arial'; fill: #0b0b0b">v</tspan>
+      <tspan x="25.283106" y="-0.203125" style="font-style: italic; font-size: 6.6px; font-family: 'Arial'; fill: #0b0b0b">i</tspan>
+      <tspan x="26.748027" y="-0.203125" style="font-style: italic; font-size: 6.6px; font-family: 'Arial'; fill: #0b0b0b">s</tspan>
+      <tspan x="30.044902" y="-0.203125" style="font-style: italic; font-size: 6.6px; font-family: 'Arial'; fill: #0b0b0b">i</tspan>
+      <tspan x="31.509822" y="-0.203125" style="font-style: italic; font-size: 6.6px; font-family: 'Arial'; fill: #0b0b0b">a</tspan>
+      <tspan x="35.176951" y="-0.203125" style="font-style: italic; font-size: 6.6px; font-family: 'Arial'; fill: #0b0b0b">e</tspan>
+      <tspan x="38.844081" y="-0.203125" style="font-size: 6.6px; font-family: 'Arial'; fill: #0b0b0b"> </tspan>
+      <tspan x="40.676036" y="-0.203125" style="font-size: 6.6px; font-family: 'Arial'; fill: #0b0b0b">1</tspan>
+      <tspan x="44.343165" y="-0.203125" style="font-size: 6.6px; font-family: 'Arial'; fill: #0b0b0b">5</tspan>
+      <tspan x="48.010295" y="-0.203125" style="font-size: 6.6px; font-family: 'Arial'; fill: #0b0b0b">S</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_67">
+    <text style="font-size: 5.6px; font-family: 'Arial'; text-anchor: start; fill: #8a8984" x="1.633536" y="127.449219" transform="rotate(-0 1.633536 127.449219)">Mitochondria</text>
+   </g>
+   <g id="text_68">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="98.01216" y="120.310313" transform="rotate(-0 98.01216 120.310313)">C</text>
+   </g>
+   <g id="text_69">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #e34948" x="106.343194" y="120.310313" transform="rotate(-0 106.343194 120.310313)">A</text>
+   </g>
+   <g id="text_70">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="114.674227" y="120.310313" transform="rotate(-0 114.674227 120.310313)">U</text>
+   </g>
+   <g id="text_71">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="123.005261" y="120.310313" transform="rotate(-0 123.005261 120.310313)">C</text>
+   </g>
+   <g id="text_72">
+    <text style="font-weight: 700; font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="131.336294" y="120.310313" transform="rotate(-0 131.336294 120.310313)">A</text>
+   </g>
+   <g id="text_73">
+    <text style="font-weight: 700; font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="139.667328" y="120.310313" transform="rotate(-0 139.667328 120.310313)">C</text>
+   </g>
+   <g id="text_74">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #e34948" x="147.998362" y="120.310313" transform="rotate(-0 147.998362 120.310313)">G</text>
+   </g>
+   <g id="text_75">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="156.329395" y="120.310313" transform="rotate(-0 156.329395 120.310313)">C</text>
+   </g>
+   <g id="text_76">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #e34948" x="164.660429" y="120.310313" transform="rotate(-0 164.660429 120.310313)">G</text>
+   </g>
+   <g id="text_77">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #e34948" x="181.322496" y="120.310313" transform="rotate(-0 181.322496 120.310313)">U</text>
+   </g>
+   <g id="text_78">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="189.65353" y="120.310313" transform="rotate(-0 189.65353 120.310313)">G</text>
+   </g>
+   <g id="text_79">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #e34948" x="197.984563" y="120.310313" transform="rotate(-0 197.984563 120.310313)">C</text>
+   </g>
+   <g id="text_80">
+    <text style="font-weight: 700; font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="206.315597" y="120.310313" transform="rotate(-0 206.315597 120.310313)">G</text>
+   </g>
+   <g id="text_81">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="214.64663" y="120.310313" transform="rotate(-0 214.64663 120.310313)">A</text>
+   </g>
+   <g id="text_82">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="222.977664" y="120.310313" transform="rotate(-0 222.977664 120.310313)">A</text>
+   </g>
+   <g id="text_83">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="231.308698" y="120.310313" transform="rotate(-0 231.308698 120.310313)">G</text>
+   </g>
+   <g id="text_84">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="239.639731" y="120.310313" transform="rotate(-0 239.639731 120.310313)">U</text>
+   </g>
+   <g id="text_85">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #e34948" x="247.970765" y="120.310313" transform="rotate(-0 247.970765 120.310313)">U</text>
+   </g>
+   <g id="text_86">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="256.301798" y="120.310313" transform="rotate(-0 256.301798 120.310313)">G</text>
+   </g>
+   <g id="text_87">
+    <text style="font-size: 6.4px; font-family: 'Arial'; text-anchor: start; fill: #0b0b0b" x="266.103014" y="120.09625" transform="rotate(-0 266.103014 120.09625)">A1408   C1409–G1491</text>
+   </g>
+   <g id="text_88">
+    <!-- $\it{C.~neoformans}$ 15S -->
+    <g style="fill: #0b0b0b" transform="translate(1.633536 148.630518)">
+     <text>
+      <tspan x="0" y="-0.203125" style="font-style: italic; font-size: 6.6px; font-family: 'Arial'; fill: #0b0b0b">C</tspan>
+      <tspan x="4.761795" y="-0.203125" style="font-style: italic; font-size: 6.6px; font-family: 'Arial'; fill: #0b0b0b">.</tspan>
+      <tspan x="9.523142" y="-0.203125" style="font-style: italic; font-size: 6.6px; font-family: 'Arial'; fill: #0b0b0b">n</tspan>
+      <tspan x="13.190272" y="-0.203125" style="font-style: italic; font-size: 6.6px; font-family: 'Arial'; fill: #0b0b0b">e</tspan>
+      <tspan x="16.857402" y="-0.203125" style="font-style: italic; font-size: 6.6px; font-family: 'Arial'; fill: #0b0b0b">o</tspan>
+      <tspan x="20.524531" y="-0.203125" style="font-style: italic; font-size: 6.6px; font-family: 'Arial'; fill: #0b0b0b">f</tspan>
+      <tspan x="22.356486" y="-0.203125" style="font-style: italic; font-size: 6.6px; font-family: 'Arial'; fill: #0b0b0b">o</tspan>
+      <tspan x="26.023616" y="-0.203125" style="font-style: italic; font-size: 6.6px; font-family: 'Arial'; fill: #0b0b0b">r</tspan>
+      <tspan x="28.219386" y="-0.203125" style="font-style: italic; font-size: 6.6px; font-family: 'Arial'; fill: #0b0b0b">m</tspan>
+      <tspan x="33.712031" y="-0.203125" style="font-style: italic; font-size: 6.6px; font-family: 'Arial'; fill: #0b0b0b">a</tspan>
+      <tspan x="37.379161" y="-0.203125" style="font-style: italic; font-size: 6.6px; font-family: 'Arial'; fill: #0b0b0b">n</tspan>
+      <tspan x="41.04629" y="-0.203125" style="font-style: italic; font-size: 6.6px; font-family: 'Arial'; fill: #0b0b0b">s</tspan>
+      <tspan x="44.343165" y="-0.203125" style="font-size: 6.6px; font-family: 'Arial'; fill: #0b0b0b"> </tspan>
+      <tspan x="46.17512" y="-0.203125" style="font-size: 6.6px; font-family: 'Arial'; fill: #0b0b0b">1</tspan>
+      <tspan x="49.84225" y="-0.203125" style="font-size: 6.6px; font-family: 'Arial'; fill: #0b0b0b">5</tspan>
+      <tspan x="53.509379" y="-0.203125" style="font-size: 6.6px; font-family: 'Arial'; fill: #0b0b0b">S</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_89">
+    <text style="font-size: 5.6px; font-family: 'Arial'; text-anchor: start; fill: #8a8984" x="1.633536" y="158.949219" transform="rotate(-0 1.633536 158.949219)">Mitochondria</text>
+   </g>
+   <g id="text_90">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="98.01216" y="151.810313" transform="rotate(-0 98.01216 151.810313)">C</text>
+   </g>
+   <g id="text_91">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #e34948" x="106.343194" y="151.810313" transform="rotate(-0 106.343194 151.810313)">A</text>
+   </g>
+   <g id="text_92">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="114.674227" y="151.810313" transform="rotate(-0 114.674227 151.810313)">U</text>
+   </g>
+   <g id="text_93">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="123.005261" y="151.810313" transform="rotate(-0 123.005261 151.810313)">C</text>
+   </g>
+   <g id="text_94">
+    <text style="font-weight: 700; font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="131.336294" y="151.810313" transform="rotate(-0 131.336294 151.810313)">A</text>
+   </g>
+   <g id="text_95">
+    <text style="font-weight: 700; font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="139.667328" y="151.810313" transform="rotate(-0 139.667328 151.810313)">C</text>
+   </g>
+   <g id="text_96">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #e34948" x="147.998362" y="151.810313" transform="rotate(-0 147.998362 151.810313)">G</text>
+   </g>
+   <g id="text_97">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #e34948" x="156.329395" y="151.810313" transform="rotate(-0 156.329395 151.810313)">G</text>
+   </g>
+   <g id="text_98">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #e34948" x="164.660429" y="151.810313" transform="rotate(-0 164.660429 151.810313)">G</text>
+   </g>
+   <g id="text_99">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #e34948" x="181.322496" y="151.810313" transform="rotate(-0 181.322496 151.810313)">U</text>
+   </g>
+   <g id="text_100">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #e34948" x="189.65353" y="151.810313" transform="rotate(-0 189.65353 151.810313)">C</text>
+   </g>
+   <g id="text_101">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="197.984563" y="151.810313" transform="rotate(-0 197.984563 151.810313)">U</text>
+   </g>
+   <g id="text_102">
+    <text style="font-weight: 700; font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="206.315597" y="151.810313" transform="rotate(-0 206.315597 151.810313)">G</text>
+   </g>
+   <g id="text_103">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="214.64663" y="151.810313" transform="rotate(-0 214.64663 151.810313)">A</text>
+   </g>
+   <g id="text_104">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="222.977664" y="151.810313" transform="rotate(-0 222.977664 151.810313)">A</text>
+   </g>
+   <g id="text_105">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="231.308698" y="151.810313" transform="rotate(-0 231.308698 151.810313)">G</text>
+   </g>
+   <g id="text_106">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="239.639731" y="151.810313" transform="rotate(-0 239.639731 151.810313)">U</text>
+   </g>
+   <g id="text_107">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #e34948" x="247.970765" y="151.810313" transform="rotate(-0 247.970765 151.810313)">U</text>
+   </g>
+   <g id="text_108">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="256.301798" y="151.810313" transform="rotate(-0 256.301798 151.810313)">G</text>
+   </g>
+   <g id="text_109">
+    <text style="font-size: 6.4px; font-family: 'Arial'; text-anchor: start; fill: #0b0b0b" x="266.103014" y="151.59625" transform="rotate(-0 266.103014 151.59625)">A1408   C1409–G1491</text>
+   </g>
+   <g id="text_110">
+    <!-- $\it{N.~adeliensis}$ Ng1 15S -->
+    <g style="fill: #0b0b0b" transform="translate(1.633536 180.099)">
+     <text>
+      <tspan x="0" y="-0.203125" style="font-style: italic; font-size: 6.6px; font-family: 'Arial'; fill: #0b0b0b">N</tspan>
+      <tspan x="4.761795" y="-0.203125" style="font-style: italic; font-size: 6.6px; font-family: 'Arial'; fill: #0b0b0b">.</tspan>
+      <tspan x="9.523142" y="-0.203125" style="font-style: italic; font-size: 6.6px; font-family: 'Arial'; fill: #0b0b0b">a</tspan>
+      <tspan x="13.190272" y="-0.203125" style="font-style: italic; font-size: 6.6px; font-family: 'Arial'; fill: #0b0b0b">d</tspan>
+      <tspan x="16.857402" y="-0.203125" style="font-style: italic; font-size: 6.6px; font-family: 'Arial'; fill: #0b0b0b">e</tspan>
+      <tspan x="20.524531" y="-0.203125" style="font-style: italic; font-size: 6.6px; font-family: 'Arial'; fill: #0b0b0b">l</tspan>
+      <tspan x="21.989451" y="-0.203125" style="font-style: italic; font-size: 6.6px; font-family: 'Arial'; fill: #0b0b0b">i</tspan>
+      <tspan x="23.454371" y="-0.203125" style="font-style: italic; font-size: 6.6px; font-family: 'Arial'; fill: #0b0b0b">e</tspan>
+      <tspan x="27.121501" y="-0.203125" style="font-style: italic; font-size: 6.6px; font-family: 'Arial'; fill: #0b0b0b">n</tspan>
+      <tspan x="30.78863" y="-0.203125" style="font-style: italic; font-size: 6.6px; font-family: 'Arial'; fill: #0b0b0b">s</tspan>
+      <tspan x="34.085505" y="-0.203125" style="font-style: italic; font-size: 6.6px; font-family: 'Arial'; fill: #0b0b0b">i</tspan>
+      <tspan x="35.550425" y="-0.203125" style="font-style: italic; font-size: 6.6px; font-family: 'Arial'; fill: #0b0b0b">s</tspan>
+      <tspan x="38.8473" y="-0.203125" style="font-weight: 700; font-size: 6.6px; font-family: 'Arial'; fill: #0b0b0b"> </tspan>
+      <tspan x="40.679255" y="-0.203125" style="font-weight: 700; font-size: 6.6px; font-family: 'Arial'; fill: #0b0b0b">N</tspan>
+      <tspan x="45.44105" y="-0.203125" style="font-weight: 700; font-size: 6.6px; font-family: 'Arial'; fill: #0b0b0b">g</tspan>
+      <tspan x="49.468775" y="-0.203125" style="font-weight: 700; font-size: 6.6px; font-family: 'Arial'; fill: #0b0b0b">1</tspan>
+      <tspan x="53.135905" y="-0.203125" style="font-weight: 700; font-size: 6.6px; font-family: 'Arial'; fill: #0b0b0b"> </tspan>
+      <tspan x="54.96786" y="-0.203125" style="font-weight: 700; font-size: 6.6px; font-family: 'Arial'; fill: #0b0b0b">1</tspan>
+      <tspan x="58.634989" y="-0.203125" style="font-weight: 700; font-size: 6.6px; font-family: 'Arial'; fill: #0b0b0b">5</tspan>
+      <tspan x="62.302119" y="-0.203125" style="font-weight: 700; font-size: 6.6px; font-family: 'Arial'; fill: #0b0b0b">S</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_111">
+    <text style="font-size: 5.6px; font-family: 'Arial'; text-anchor: start; fill: #8a8984" x="1.633536" y="190.449219" transform="rotate(-0 1.633536 190.449219)">Mitochondria</text>
+   </g>
+   <g id="text_112">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="98.01216" y="183.310313" transform="rotate(-0 98.01216 183.310313)">C</text>
+   </g>
+   <g id="text_113">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="106.343194" y="183.310313" transform="rotate(-0 106.343194 183.310313)">G</text>
+   </g>
+   <g id="text_114">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="114.674227" y="183.310313" transform="rotate(-0 114.674227 183.310313)">U</text>
+   </g>
+   <g id="text_115">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="123.005261" y="183.310313" transform="rotate(-0 123.005261 183.310313)">C</text>
+   </g>
+   <g id="text_116">
+    <text style="font-weight: 700; font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="131.336294" y="183.310313" transform="rotate(-0 131.336294 183.310313)">A</text>
+   </g>
+   <g id="text_117">
+    <text style="font-weight: 700; font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #e34948" x="139.667328" y="183.310313" transform="rotate(-0 139.667328 183.310313)">U</text>
+   </g>
+   <g id="text_118">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #e34948" x="147.998362" y="183.310313" transform="rotate(-0 147.998362 183.310313)">G</text>
+   </g>
+   <g id="text_119">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #e34948" x="156.329395" y="183.310313" transform="rotate(-0 156.329395 183.310313)">G</text>
+   </g>
+   <g id="text_120">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #e34948" x="164.660429" y="183.310313" transform="rotate(-0 164.660429 183.310313)">G</text>
+   </g>
+   <g id="text_121">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #e34948" x="181.322496" y="183.310313" transform="rotate(-0 181.322496 183.310313)">U</text>
+   </g>
+   <g id="text_122">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #e34948" x="189.65353" y="183.310313" transform="rotate(-0 189.65353 183.310313)">C</text>
+   </g>
+   <g id="text_123">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="197.984563" y="183.310313" transform="rotate(-0 197.984563 183.310313)">U</text>
+   </g>
+   <g id="text_124">
+    <text style="font-weight: 700; font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #e34948" x="206.315597" y="183.310313" transform="rotate(-0 206.315597 183.310313)">A</text>
+   </g>
+   <g id="text_125">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="214.64663" y="183.310313" transform="rotate(-0 214.64663 183.310313)">A</text>
+   </g>
+   <g id="text_126">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="222.977664" y="183.310313" transform="rotate(-0 222.977664 183.310313)">A</text>
+   </g>
+   <g id="text_127">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="231.308698" y="183.310313" transform="rotate(-0 231.308698 183.310313)">G</text>
+   </g>
+   <g id="text_128">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="239.639731" y="183.310313" transform="rotate(-0 239.639731 183.310313)">U</text>
+   </g>
+   <g id="text_129">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="247.970765" y="183.310313" transform="rotate(-0 247.970765 183.310313)">C</text>
+   </g>
+   <g id="text_130">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="256.301798" y="183.310313" transform="rotate(-0 256.301798 183.310313)">G</text>
+   </g>
+   <g id="text_131">
+    <text style="font-size: 6.4px; font-family: 'Arial'; text-anchor: start; fill: #0b0b0b" x="266.103014" y="183.09625" transform="rotate(-0 266.103014 183.09625)">A1408   U1409–A1491</text>
+   </g>
+   <g id="text_132">
+    <text style="font-size: 6.2px; font-family: 'Arial'; text-anchor: start; fill: #52514e" x="266.103014" y="36.495094" transform="rotate(-0 266.103014 36.495094)">Key positions</text>
+   </g>
+   <g id="text_133">
+    <!-- Red: differs from $\it{E.~coli}$; shaded: positions that determine aminoglycoside binding (E. coli numbering) -->
+    <g style="fill: #52514e" transform="translate(1.633536 214.508)">
+     <text>
+      <tspan x="0" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">R</tspan>
+      <tspan x="4.039627" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">e</tspan>
+      <tspan x="7.150604" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">d</tspan>
+      <tspan x="10.261581" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">:</tspan>
+      <tspan x="11.815704" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e"> </tspan>
+      <tspan x="13.369827" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">d</tspan>
+      <tspan x="16.480804" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">i</tspan>
+      <tspan x="17.723557" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">f</tspan>
+      <tspan x="19.277679" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">f</tspan>
+      <tspan x="20.831802" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">e</tspan>
+      <tspan x="23.94278" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">r</tspan>
+      <tspan x="25.805542" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">s</tspan>
+      <tspan x="28.602417" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e"> </tspan>
+      <tspan x="30.15654" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">f</tspan>
+      <tspan x="31.710663" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">r</tspan>
+      <tspan x="33.573425" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">o</tspan>
+      <tspan x="36.684402" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">m</tspan>
+      <tspan x="41.34404" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e"> </tspan>
+      <tspan x="59.061754" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">;</tspan>
+      <tspan x="60.615877" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e"> </tspan>
+      <tspan x="62.17" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">s</tspan>
+      <tspan x="64.966875" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">h</tspan>
+      <tspan x="68.077852" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">a</tspan>
+      <tspan x="71.188829" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">d</tspan>
+      <tspan x="74.299806" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">e</tspan>
+      <tspan x="77.410784" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">d</tspan>
+      <tspan x="80.521761" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">:</tspan>
+      <tspan x="82.075884" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e"> </tspan>
+      <tspan x="83.630007" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">p</tspan>
+      <tspan x="86.740984" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">o</tspan>
+      <tspan x="89.851961" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">s</tspan>
+      <tspan x="92.648836" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">i</tspan>
+      <tspan x="93.891588" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">t</tspan>
+      <tspan x="95.445711" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">i</tspan>
+      <tspan x="96.688463" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">o</tspan>
+      <tspan x="99.79944" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">n</tspan>
+      <tspan x="102.910417" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">s</tspan>
+      <tspan x="105.707292" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e"> </tspan>
+      <tspan x="107.261415" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">t</tspan>
+      <tspan x="108.815538" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">h</tspan>
+      <tspan x="111.926515" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">a</tspan>
+      <tspan x="115.037493" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">t</tspan>
+      <tspan x="116.591616" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e"> </tspan>
+      <tspan x="118.145738" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">d</tspan>
+      <tspan x="121.256716" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">e</tspan>
+      <tspan x="124.367693" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">t</tspan>
+      <tspan x="125.921816" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">e</tspan>
+      <tspan x="129.032793" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">r</tspan>
+      <tspan x="130.895555" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">m</tspan>
+      <tspan x="135.555193" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">i</tspan>
+      <tspan x="136.797945" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">n</tspan>
+      <tspan x="139.908922" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">e</tspan>
+      <tspan x="143.019899" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e"> </tspan>
+      <tspan x="144.574022" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">a</tspan>
+      <tspan x="147.684999" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">m</tspan>
+      <tspan x="152.344637" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">i</tspan>
+      <tspan x="153.587389" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">n</tspan>
+      <tspan x="156.698366" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">o</tspan>
+      <tspan x="159.809343" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">g</tspan>
+      <tspan x="162.92032" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">l</tspan>
+      <tspan x="164.163072" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">y</tspan>
+      <tspan x="166.959947" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">c</tspan>
+      <tspan x="169.756822" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">o</tspan>
+      <tspan x="172.8678" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">s</tspan>
+      <tspan x="175.664675" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">i</tspan>
+      <tspan x="176.907427" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">d</tspan>
+      <tspan x="180.018404" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">e</tspan>
+      <tspan x="183.129381" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e"> </tspan>
+      <tspan x="184.683504" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">b</tspan>
+      <tspan x="187.794481" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">i</tspan>
+      <tspan x="189.037233" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">n</tspan>
+      <tspan x="192.14821" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">d</tspan>
+      <tspan x="195.259188" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">i</tspan>
+      <tspan x="196.50194" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">n</tspan>
+      <tspan x="199.612917" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">g</tspan>
+      <tspan x="202.723894" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e"> </tspan>
+      <tspan x="204.278017" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">(</tspan>
+      <tspan x="206.140779" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">E</tspan>
+      <tspan x="209.871767" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">.</tspan>
+      <tspan x="211.42589" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e"> </tspan>
+      <tspan x="212.980013" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">c</tspan>
+      <tspan x="215.776888" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">o</tspan>
+      <tspan x="218.887865" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">l</tspan>
+      <tspan x="220.130617" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">i</tspan>
+      <tspan x="221.373369" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e"> </tspan>
+      <tspan x="222.927492" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">n</tspan>
+      <tspan x="226.038469" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">u</tspan>
+      <tspan x="229.149446" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">m</tspan>
+      <tspan x="233.809084" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">b</tspan>
+      <tspan x="236.920061" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">e</tspan>
+      <tspan x="240.031038" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">r</tspan>
+      <tspan x="241.893801" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">i</tspan>
+      <tspan x="243.136553" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">n</tspan>
+      <tspan x="246.24753" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">g</tspan>
+      <tspan x="249.358507" y="-0.921875" style="font-size: 5.6px; font-family: 'Arial'; fill: #52514e">)</tspan>
+      <tspan x="42.898163" y="-0.921875" style="font-style: italic; font-size: 5.6px; font-family: 'Arial'; fill: #52514e">E</tspan>
+      <tspan x="46.62915" y="-0.921875" style="font-style: italic; font-size: 5.6px; font-family: 'Arial'; fill: #52514e">.</tspan>
+      <tspan x="50.668398" y="-0.921875" style="font-style: italic; font-size: 5.6px; font-family: 'Arial'; fill: #52514e">c</tspan>
+      <tspan x="53.465273" y="-0.921875" style="font-style: italic; font-size: 5.6px; font-family: 'Arial'; fill: #52514e">o</tspan>
+      <tspan x="56.57625" y="-0.921875" style="font-style: italic; font-size: 5.6px; font-family: 'Arial'; fill: #52514e">l</tspan>
+      <tspan x="57.819002" y="-0.921875" style="font-style: italic; font-size: 5.6px; font-family: 'Arial'; fill: #52514e">i</tspan>
+     </text>
+    </g>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_6">
+    <path d="M 459.09168 239.0175 
+L 497.20752 239.0175 
+Q 503.741664 239.0175 503.741664 236.6955 
+L 503.741664 29.457 
+Q 503.741664 27.135 497.20752 27.135 
+L 459.09168 27.135 
+Q 452.557536 27.135 452.557536 29.457 
+L 452.557536 236.6955 
+Q 452.557536 239.0175 459.09168 239.0175 
+z
+" clip-path="url(#pb8ffbc385c)" style="fill: #eef4fc"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 361.07952 44.55 
+L 377.41488 44.55 
+" clip-path="url(#pb8ffbc385c)" style="fill: none; stroke: #52514e; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 361.07952 64.8675 
+L 377.41488 64.8675 
+" clip-path="url(#pb8ffbc385c)" style="fill: none; stroke: #52514e; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 361.07952 85.185 
+L 377.41488 85.185 
+" clip-path="url(#pb8ffbc385c)" style="fill: none; stroke-dasharray: 0.84,0.98; stroke-dashoffset: 0; stroke: #c9c8c2; stroke-width: 0.7"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 361.07952 105.5025 
+L 377.41488 105.5025 
+" clip-path="url(#pb8ffbc385c)" style="fill: none; stroke: #52514e; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 361.07952 155.8125 
+L 377.41488 155.8125 
+" clip-path="url(#pb8ffbc385c)" style="fill: none; stroke: #eb6834; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_6">
+    <path d="M 361.07952 176.13 
+L 377.41488 176.13 
+" clip-path="url(#pb8ffbc385c)" style="fill: none; stroke: #52514e; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_7">
+    <path d="M 361.07952 196.4475 
+L 377.41488 196.4475 
+" clip-path="url(#pb8ffbc385c)" style="fill: none; stroke: #52514e; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_8">
+    <path d="M 361.07952 216.765 
+L 377.41488 216.765 
+" clip-path="url(#pb8ffbc385c)" style="fill: none; stroke: #52514e; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_9">
+    <path d="M 415.53072 44.55 
+L 431.86608 44.55 
+" clip-path="url(#pb8ffbc385c)" style="fill: none; stroke: #52514e; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_10">
+    <path d="M 415.53072 64.8675 
+L 431.86608 64.8675 
+" clip-path="url(#pb8ffbc385c)" style="fill: none; stroke: #52514e; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_11">
+    <path d="M 415.53072 85.185 
+L 431.86608 85.185 
+" clip-path="url(#pb8ffbc385c)" style="fill: none; stroke-dasharray: 0.84,0.98; stroke-dashoffset: 0; stroke: #c9c8c2; stroke-width: 0.7"/>
+   </g>
+   <g id="line2d_12">
+    <path d="M 415.53072 105.5025 
+L 431.86608 105.5025 
+" clip-path="url(#pb8ffbc385c)" style="fill: none; stroke: #52514e; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_13">
+    <path d="M 415.53072 155.8125 
+L 431.86608 155.8125 
+" clip-path="url(#pb8ffbc385c)" style="fill: none; stroke-dasharray: 0.84,0.98; stroke-dashoffset: 0; stroke: #c9c8c2; stroke-width: 0.7"/>
+   </g>
+   <g id="line2d_14">
+    <path d="M 415.53072 176.13 
+L 431.86608 176.13 
+" clip-path="url(#pb8ffbc385c)" style="fill: none; stroke: #52514e; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_15">
+    <path d="M 415.53072 196.4475 
+L 431.86608 196.4475 
+" clip-path="url(#pb8ffbc385c)" style="fill: none; stroke: #52514e; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_16">
+    <path d="M 415.53072 216.765 
+L 431.86608 216.765 
+" clip-path="url(#pb8ffbc385c)" style="fill: none; stroke: #52514e; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_17">
+    <path d="M 469.98192 44.55 
+L 486.31728 44.55 
+" clip-path="url(#pb8ffbc385c)" style="fill: none; stroke: #52514e; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_18">
+    <path d="M 469.98192 64.8675 
+L 486.31728 64.8675 
+" clip-path="url(#pb8ffbc385c)" style="fill: none; stroke: #52514e; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_19">
+    <path d="M 469.98192 85.185 
+L 486.31728 85.185 
+" clip-path="url(#pb8ffbc385c)" style="fill: none; stroke-dasharray: 0.84,0.98; stroke-dashoffset: 0; stroke: #c9c8c2; stroke-width: 0.7"/>
+   </g>
+   <g id="line2d_20">
+    <path d="M 469.98192 105.5025 
+L 486.31728 105.5025 
+" clip-path="url(#pb8ffbc385c)" style="fill: none; stroke: #52514e; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_21">
+    <path d="M 469.98192 155.8125 
+L 486.31728 155.8125 
+" clip-path="url(#pb8ffbc385c)" style="fill: none; stroke: #eb6834; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_22">
+    <defs>
+     <path id="m352a0849cf" d="M 0 1.1 
+C 0.291723 1.1 0.571538 0.984097 0.777817 0.777817 
+C 0.984097 0.571538 1.1 0.291723 1.1 0 
+C 1.1 -0.291723 0.984097 -0.571538 0.777817 -0.777817 
+C 0.571538 -0.984097 0.291723 -1.1 0 -1.1 
+C -0.291723 -1.1 -0.571538 -0.984097 -0.777817 -0.777817 
+C -0.984097 -0.571538 -1.1 -0.291723 -1.1 0 
+C -1.1 0.291723 -0.984097 0.571538 -0.777817 0.777817 
+C -0.571538 0.984097 -0.291723 1.1 0 1.1 
+z
+" style="stroke: #52514e"/>
+    </defs>
+    <g clip-path="url(#pb8ffbc385c)">
+     <use xlink:href="#m352a0849cf" x="478.1496" y="176.13" style="fill: #52514e; stroke: #52514e"/>
+    </g>
+   </g>
+   <g id="line2d_23">
+    <path d="M 469.98192 196.4475 
+L 486.31728 196.4475 
+" clip-path="url(#pb8ffbc385c)" style="fill: none; stroke: #52514e; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_24">
+    <g clip-path="url(#pb8ffbc385c)">
+     <use xlink:href="#m352a0849cf" x="478.1496" y="216.765" style="fill: #52514e; stroke: #52514e"/>
+    </g>
+   </g>
+   <g id="text_134">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="357.267936" y="46.420312" transform="rotate(-0 357.267936 46.420312)">C</text>
+   </g>
+   <g id="text_135">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="357.267936" y="66.737813" transform="rotate(-0 357.267936 66.737813)">G</text>
+   </g>
+   <g id="text_136">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="357.267936" y="87.055313" transform="rotate(-0 357.267936 87.055313)">U</text>
+   </g>
+   <g id="text_137">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="357.267936" y="107.372813" transform="rotate(-0 357.267936 107.372813)">C</text>
+   </g>
+   <g id="text_138">
+    <text style="font-weight: 700; font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #eb6834" x="357.267936" y="127.690313" transform="rotate(-0 357.267936 127.690313)">A</text>
+   </g>
+   <g id="text_139">
+    <text style="font-weight: 700; font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="357.267936" y="157.682813" transform="rotate(-0 357.267936 157.682813)">C</text>
+   </g>
+   <g id="text_140">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="357.267936" y="178.000313" transform="rotate(-0 357.267936 178.000313)">A</text>
+   </g>
+   <g id="text_141">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="357.267936" y="198.317813" transform="rotate(-0 357.267936 198.317813)">C</text>
+   </g>
+   <g id="text_142">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="357.267936" y="218.635312" transform="rotate(-0 357.267936 218.635312)">C</text>
+   </g>
+   <g id="text_143">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="381.226464" y="46.420312" transform="rotate(-0 381.226464 46.420312)">G</text>
+   </g>
+   <g id="text_144">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="381.226464" y="66.737813" transform="rotate(-0 381.226464 66.737813)">C</text>
+   </g>
+   <g id="text_145">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="381.226464" y="87.055313" transform="rotate(-0 381.226464 87.055313)">U</text>
+   </g>
+   <g id="text_146">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="381.226464" y="107.372813" transform="rotate(-0 381.226464 107.372813)">G</text>
+   </g>
+   <g id="text_147">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="389.938656" y="121.885313" transform="rotate(-0 389.938656 121.885313)">A</text>
+   </g>
+   <g id="text_148">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="389.938656" y="136.397812" transform="rotate(-0 389.938656 136.397812)">A</text>
+   </g>
+   <g id="text_149">
+    <text style="font-weight: 700; font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="381.226464" y="157.682813" transform="rotate(-0 381.226464 157.682813)">G</text>
+   </g>
+   <g id="text_150">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="381.226464" y="178.000313" transform="rotate(-0 381.226464 178.000313)">U</text>
+   </g>
+   <g id="text_151">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="381.226464" y="198.317813" transform="rotate(-0 381.226464 198.317813)">G</text>
+   </g>
+   <g id="text_152">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="381.226464" y="218.635312" transform="rotate(-0 381.226464 218.635312)">G</text>
+   </g>
+   <g id="text_153">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="411.719136" y="46.420312" transform="rotate(-0 411.719136 46.420312)">C</text>
+   </g>
+   <g id="text_154">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="411.719136" y="66.737813" transform="rotate(-0 411.719136 66.737813)">G</text>
+   </g>
+   <g id="text_155">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="411.719136" y="87.055313" transform="rotate(-0 411.719136 87.055313)">U</text>
+   </g>
+   <g id="text_156">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="411.719136" y="107.372813" transform="rotate(-0 411.719136 107.372813)">C</text>
+   </g>
+   <g id="text_157">
+    <text style="font-weight: 700; font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #2a78d6" x="411.719136" y="127.690313" transform="rotate(-0 411.719136 127.690313)">G</text>
+   </g>
+   <g id="text_158">
+    <text style="font-weight: 700; font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="411.719136" y="157.682813" transform="rotate(-0 411.719136 157.682813)">C</text>
+   </g>
+   <g id="text_159">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="411.719136" y="178.000313" transform="rotate(-0 411.719136 178.000313)">U</text>
+   </g>
+   <g id="text_160">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="411.719136" y="198.317813" transform="rotate(-0 411.719136 198.317813)">A</text>
+   </g>
+   <g id="text_161">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="411.719136" y="218.635312" transform="rotate(-0 411.719136 218.635312)">C</text>
+   </g>
+   <g id="text_162">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="435.677664" y="46.420312" transform="rotate(-0 435.677664 46.420312)">G</text>
+   </g>
+   <g id="text_163">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="435.677664" y="66.737813" transform="rotate(-0 435.677664 66.737813)">C</text>
+   </g>
+   <g id="text_164">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="435.677664" y="87.055313" transform="rotate(-0 435.677664 87.055313)">U</text>
+   </g>
+   <g id="text_165">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="435.677664" y="107.372813" transform="rotate(-0 435.677664 107.372813)">G</text>
+   </g>
+   <g id="text_166">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="444.389856" y="121.885313" transform="rotate(-0 444.389856 121.885313)">A</text>
+   </g>
+   <g id="text_167">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="444.389856" y="136.397812" transform="rotate(-0 444.389856 136.397812)">A</text>
+   </g>
+   <g id="text_168">
+    <text style="font-weight: 700; font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="435.677664" y="157.682813" transform="rotate(-0 435.677664 157.682813)">A</text>
+   </g>
+   <g id="text_169">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="435.677664" y="178.000313" transform="rotate(-0 435.677664 178.000313)">A</text>
+   </g>
+   <g id="text_170">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="435.677664" y="198.317813" transform="rotate(-0 435.677664 198.317813)">U</text>
+   </g>
+   <g id="text_171">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="435.677664" y="218.635312" transform="rotate(-0 435.677664 218.635312)">G</text>
+   </g>
+   <g id="text_172">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="466.170336" y="46.420312" transform="rotate(-0 466.170336 46.420312)">C</text>
+   </g>
+   <g id="text_173">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="466.170336" y="66.737813" transform="rotate(-0 466.170336 66.737813)">G</text>
+   </g>
+   <g id="text_174">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="466.170336" y="87.055313" transform="rotate(-0 466.170336 87.055313)">U</text>
+   </g>
+   <g id="text_175">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="466.170336" y="107.372813" transform="rotate(-0 466.170336 107.372813)">C</text>
+   </g>
+   <g id="text_176">
+    <text style="font-weight: 700; font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #eb6834" x="466.170336" y="127.690313" transform="rotate(-0 466.170336 127.690313)">A</text>
+   </g>
+   <g id="text_177">
+    <text style="font-weight: 700; font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="466.170336" y="157.682813" transform="rotate(-0 466.170336 157.682813)">U</text>
+   </g>
+   <g id="text_178">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="466.170336" y="178.000313" transform="rotate(-0 466.170336 178.000313)">G</text>
+   </g>
+   <g id="text_179">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="466.170336" y="198.317813" transform="rotate(-0 466.170336 198.317813)">G</text>
+   </g>
+   <g id="text_180">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="466.170336" y="218.635312" transform="rotate(-0 466.170336 218.635312)">G</text>
+   </g>
+   <g id="text_181">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="490.128864" y="46.420312" transform="rotate(-0 490.128864 46.420312)">G</text>
+   </g>
+   <g id="text_182">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="490.128864" y="66.737813" transform="rotate(-0 490.128864 66.737813)">C</text>
+   </g>
+   <g id="text_183">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="490.128864" y="87.055313" transform="rotate(-0 490.128864 87.055313)">U</text>
+   </g>
+   <g id="text_184">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="490.128864" y="107.372813" transform="rotate(-0 490.128864 107.372813)">G</text>
+   </g>
+   <g id="text_185">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="498.841056" y="121.885313" transform="rotate(-0 498.841056 121.885313)">A</text>
+   </g>
+   <g id="text_186">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="498.841056" y="136.397812" transform="rotate(-0 498.841056 136.397812)">A</text>
+   </g>
+   <g id="text_187">
+    <text style="font-weight: 700; font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="490.128864" y="157.682813" transform="rotate(-0 490.128864 157.682813)">A</text>
+   </g>
+   <g id="text_188">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="490.128864" y="178.000313" transform="rotate(-0 490.128864 178.000313)">U</text>
+   </g>
+   <g id="text_189">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="490.128864" y="198.317813" transform="rotate(-0 490.128864 198.317813)">C</text>
+   </g>
+   <g id="text_190">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans Mono'; text-anchor: middle; fill: #0b0b0b" x="490.128864" y="218.635312" transform="rotate(-0 490.128864 218.635312)">U</text>
+   </g>
+   <g id="text_191">
+    <!-- $\it{E.~coli}$ 16S -->
+    <g style="fill: #0b0b0b" transform="translate(353.6547 28.71167)">
+     <text>
+      <tspan x="0" y="-0.421875" style="font-style: italic; font-size: 6.3px; font-family: 'Arial'; fill: #0b0b0b">E</tspan>
+      <tspan x="4.199966" y="-0.421875" style="font-style: italic; font-size: 6.3px; font-family: 'Arial'; fill: #0b0b0b">.</tspan>
+      <tspan x="8.746948" y="-0.421875" style="font-style: italic; font-size: 6.3px; font-family: 'Arial'; fill: #0b0b0b">c</tspan>
+      <tspan x="11.895386" y="-0.421875" style="font-style: italic; font-size: 6.3px; font-family: 'Arial'; fill: #0b0b0b">o</tspan>
+      <tspan x="15.397415" y="-0.421875" style="font-style: italic; font-size: 6.3px; font-family: 'Arial'; fill: #0b0b0b">l</tspan>
+      <tspan x="16.796387" y="-0.421875" style="font-style: italic; font-size: 6.3px; font-family: 'Arial'; fill: #0b0b0b">i</tspan>
+      <tspan x="18.195358" y="-0.421875" style="font-size: 6.3px; font-family: 'Arial'; fill: #0b0b0b"> </tspan>
+      <tspan x="19.944839" y="-0.421875" style="font-size: 6.3px; font-family: 'Arial'; fill: #0b0b0b">1</tspan>
+      <tspan x="23.446869" y="-0.421875" style="font-size: 6.3px; font-family: 'Arial'; fill: #0b0b0b">6</tspan>
+      <tspan x="26.948898" y="-0.421875" style="font-size: 6.3px; font-family: 'Arial'; fill: #0b0b0b">S</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_192">
+    <text style="font-size: 5.6px; font-family: 'Arial'; text-anchor: middle; fill: #8a8984" x="369.2472" y="34.663875" transform="rotate(-0 369.2472 34.663875)">bacterial (sensitive)</text>
+   </g>
+   <g id="text_193">
+    <text style="font-size: 5.2px; font-family: 'Arial'; text-anchor: end; fill: #8a8984" x="350.18928" y="45.895703" transform="rotate(-0 350.18928 45.895703)">1404</text>
+   </g>
+   <g id="text_194">
+    <text style="font-size: 5.2px; font-family: 'Arial'; text-anchor: end; fill: #8a8984" x="350.18928" y="127.165703" transform="rotate(-0 350.18928 127.165703)">1408</text>
+   </g>
+   <g id="text_195">
+    <text style="font-size: 5.2px; font-family: 'Arial'; text-anchor: end; fill: #8a8984" x="350.18928" y="157.158203" transform="rotate(-0 350.18928 157.158203)">1409</text>
+   </g>
+   <g id="text_196">
+    <text style="font-size: 5.2px; font-family: 'Arial'; text-anchor: end; fill: #8a8984" x="350.18928" y="218.110703" transform="rotate(-0 350.18928 218.110703)">1412</text>
+   </g>
+   <g id="text_197">
+    <text style="font-size: 5.2px; font-family: 'Arial'; text-anchor: start; fill: #8a8984" x="388.849632" y="45.895703" transform="rotate(-0 388.849632 45.895703)">1497</text>
+   </g>
+   <g id="text_198">
+    <text style="font-size: 5.2px; font-family: 'Arial'; text-anchor: start; fill: #8a8984" x="397.561824" y="135.873203" transform="rotate(-0 397.561824 135.873203)">1492</text>
+   </g>
+   <g id="text_199">
+    <text style="font-size: 5.2px; font-family: 'Arial'; text-anchor: start; fill: #8a8984" x="388.849632" y="157.158203" transform="rotate(-0 388.849632 157.158203)">1491</text>
+   </g>
+   <g id="text_200">
+    <text style="font-size: 5.2px; font-family: 'Arial'; text-anchor: start; fill: #8a8984" x="388.849632" y="218.110703" transform="rotate(-0 388.849632 218.110703)">1488</text>
+   </g>
+   <g id="text_201">
+    <text style="font-size: 6.3px; font-family: 'Arial'; text-anchor: middle; fill: #0b0b0b" x="423.6984" y="28.71167" transform="rotate(-0 423.6984 28.71167)">Human 18S</text>
+   </g>
+   <g id="text_202">
+    <text style="font-size: 5.6px; font-family: 'Arial'; text-anchor: middle; fill: #8a8984" x="423.6984" y="34.663875" transform="rotate(-0 423.6984 34.663875)">cytosolic (resistant)</text>
+   </g>
+   <g id="text_203">
+    <!-- $\it{N.~adeliensis}$ Ng1 15S -->
+    <g style="fill: #0b0b0b" transform="translate(446.2716 28.6515)">
+     <text>
+      <tspan x="0" y="-0.421875" style="font-style: italic; font-size: 6.3px; font-family: 'Arial'; fill: #0b0b0b">N</tspan>
+      <tspan x="4.547409" y="-0.421875" style="font-style: italic; font-size: 6.3px; font-family: 'Arial'; fill: #0b0b0b">.</tspan>
+      <tspan x="9.094391" y="-0.421875" style="font-style: italic; font-size: 6.3px; font-family: 'Arial'; fill: #0b0b0b">a</tspan>
+      <tspan x="12.59642" y="-0.421875" style="font-style: italic; font-size: 6.3px; font-family: 'Arial'; fill: #0b0b0b">d</tspan>
+      <tspan x="16.09845" y="-0.421875" style="font-style: italic; font-size: 6.3px; font-family: 'Arial'; fill: #0b0b0b">e</tspan>
+      <tspan x="19.600479" y="-0.421875" style="font-style: italic; font-size: 6.3px; font-family: 'Arial'; fill: #0b0b0b">l</tspan>
+      <tspan x="20.99945" y="-0.421875" style="font-style: italic; font-size: 6.3px; font-family: 'Arial'; fill: #0b0b0b">i</tspan>
+      <tspan x="22.398422" y="-0.421875" style="font-style: italic; font-size: 6.3px; font-family: 'Arial'; fill: #0b0b0b">e</tspan>
+      <tspan x="25.900451" y="-0.421875" style="font-style: italic; font-size: 6.3px; font-family: 'Arial'; fill: #0b0b0b">n</tspan>
+      <tspan x="29.402481" y="-0.421875" style="font-style: italic; font-size: 6.3px; font-family: 'Arial'; fill: #0b0b0b">s</tspan>
+      <tspan x="32.550918" y="-0.421875" style="font-style: italic; font-size: 6.3px; font-family: 'Arial'; fill: #0b0b0b">i</tspan>
+      <tspan x="33.94989" y="-0.421875" style="font-style: italic; font-size: 6.3px; font-family: 'Arial'; fill: #0b0b0b">s</tspan>
+      <tspan x="37.098327" y="-0.421875" style="font-weight: 700; font-size: 6.3px; font-family: 'Arial'; fill: #0b0b0b"> </tspan>
+      <tspan x="38.847809" y="-0.421875" style="font-weight: 700; font-size: 6.3px; font-family: 'Arial'; fill: #0b0b0b">N</tspan>
+      <tspan x="43.395218" y="-0.421875" style="font-weight: 700; font-size: 6.3px; font-family: 'Arial'; fill: #0b0b0b">g</tspan>
+      <tspan x="47.241607" y="-0.421875" style="font-weight: 700; font-size: 6.3px; font-family: 'Arial'; fill: #0b0b0b">1</tspan>
+      <tspan x="50.743637" y="-0.421875" style="font-weight: 700; font-size: 6.3px; font-family: 'Arial'; fill: #0b0b0b"> </tspan>
+      <tspan x="52.493118" y="-0.421875" style="font-weight: 700; font-size: 6.3px; font-family: 'Arial'; fill: #0b0b0b">1</tspan>
+      <tspan x="55.995148" y="-0.421875" style="font-weight: 700; font-size: 6.3px; font-family: 'Arial'; fill: #0b0b0b">5</tspan>
+      <tspan x="59.497177" y="-0.421875" style="font-weight: 700; font-size: 6.3px; font-family: 'Arial'; fill: #0b0b0b">S</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_204">
+    <text style="font-size: 5.6px; font-family: 'Arial'; text-anchor: middle; fill: #8a8984" x="478.1496" y="34.663984" transform="rotate(-0 478.1496 34.663984)">mitochondrial</text>
+   </g>
+   <g id="text_205">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle; fill: #52514e" x="423.6984" y="241.013848" transform="rotate(-0 423.6984 241.013848)">line: Watson–Crick pair;  dot: G·U pair;  dotted: non-canonical</text>
+   </g>
+  </g>
+  <g id="text_206">
+   <text style="font-weight: 700; font-size: 11px; font-family: 'Arial'; text-anchor: start" x="4.08384" y="11.788301" transform="rotate(-0 4.08384 11.788301)">A</text>
+  </g>
+  <g id="text_207">
+   <text style="font-weight: 700; font-size: 11px; font-family: 'Arial'; text-anchor: start" x="334.3644" y="11.788301" transform="rotate(-0 334.3644 11.788301)">B</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p1aec4452a7">
+   <rect x="0" y="0" width="326.7072" height="252"/>
+  </clipPath>
+  <clipPath id="pb8ffbc385c">
+   <rect x="342.0216" y="25.2" width="163.3536" height="216.72"/>
+  </clipPath>
+ </defs>
+</svg>

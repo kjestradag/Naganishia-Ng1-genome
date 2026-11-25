@@ -1,0 +1,32 @@
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: basidiomycota_odb10 (Creation date: 2024-01-08, number of genomes: 133, number of BUSCOs: 1764)
+# Summarized benchmarking in BUSCO notation for file /busco_wd/ng1.fa
+# BUSCO was run in mode: euk_genome_min
+# Gene predictor used: miniprot
+
+	***** Results: *****
+
+	C:92.2%[S:92.1%,D:0.2%],F:0.9%,M:6.9%,n:1764,E:7.4%	   
+	1627	Complete BUSCOs (C)	(of which 121 contain internal stop codons)		   
+	1624	Complete and single-copy BUSCOs (S)	   
+	3	Complete and duplicated BUSCOs (D)	   
+	15	Fragmented BUSCOs (F)			   
+	122	Missing BUSCOs (M)			   
+	1764	Total BUSCO groups searched		   
+
+Assembly Statistics:
+	40	Number of scaffolds
+	43	Number of contigs
+	19694392	Total length
+	0.014%	Percent gaps
+	1 MB	Scaffold N50
+	1 MB	Contigs N50
+
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	bbtools: None
+	miniprot_index: 0.13-r248
+	miniprot_align: 0.13-r248
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
